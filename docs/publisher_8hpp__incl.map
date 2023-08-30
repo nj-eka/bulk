@@ -1,0 +1,11 @@
+<map id="src/core/publisher.hpp" name="src/core/publisher.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,155,36"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="13,84,51,115"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="73,38,51,73,47,70,68,35"/>
+<area shape="rect" id="Node000003" href="$subscriber_8hpp.html" title=" " alt="" coords="75,84,181,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="92,35,113,70,109,73,87,38"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="55,163,113,193"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="122,117,102,151,97,148,117,114"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="137,163,204,193"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="139,114,158,148,153,151,134,117"/>
+</map>

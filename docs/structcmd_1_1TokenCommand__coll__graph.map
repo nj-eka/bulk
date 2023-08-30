@@ -1,0 +1,7 @@
+<map id="cmd::TokenCommand" name="cmd::TokenCommand">
+<area shape="rect" id="Node000001" title="any string (f.e. cmdN ...)" alt="" coords="5,305,145,387"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="40,156,111,237"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="78,237,78,289,73,289,73,237"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="17,5,134,107"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="78,121,78,156,73,156,73,121"/>
+</map>

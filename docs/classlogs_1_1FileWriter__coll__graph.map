@@ -1,0 +1,15 @@
+<map id="logs::FileWriter" name="logs::FileWriter">
+<area shape="rect" id="Node000001" title=" " alt="" coords="11,1168,228,1732"/>
+<area shape="rect" id="Node000002" href="$structcore_1_1SubscriberBase.html" title=" " alt="" coords="33,756,206,1119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="122,1133,122,1168,117,1168,117,1133"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="62,156,132,237"/>
+<area shape="poly" id="edge7_Node000001_Node000003" title=" " alt="" coords="90,238,60,382,43,483,27,599,15,725,9,856,11,988,24,1118,29,1151,24,1152,18,1119,6,989,3,856,10,724,22,598,37,482,55,381,85,237"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="100,237,112,668,114,739,109,739,107,668,95,237"/>
+<area shape="rect" id="Node000005" href="$structcore_1_1SubscriberBase.html" title=" " alt="" coords="146,305,322,668"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="118,236,143,289,138,291,113,238"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="38,5,156,107"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="100,121,100,156,94,156,94,121"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="187,682,168,757,163,756,182,681"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="231,887,384,988"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="287,1002,225,1169,220,1168,282,1000"/>
+</map>

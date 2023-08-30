@@ -1,0 +1,7 @@
+<map id="logs::OutputStreamWriter::onEvent" name="logs::OutputStreamWriter::onEvent">
+<area shape="rect" id="Node000001" title="Main Subscription Method." alt="" coords="5,53,174,103"/>
+<area shape="rect" id="Node000002" href="$structcore_1_1SubscriberBase.html#a8110043a7ed2989b6e83fcae51e7449d" title="Get Subscriber current State object." alt="" coords="222,5,375,76"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="174,60,207,54,208,60,175,66"/>
+<area shape="rect" id="Node000003" href="$namespacebulk.html#a256562938af4193f659c37bc0bee6c1e" title=" " alt="" coords="259,100,338,131"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="175,90,245,103,244,108,174,96"/>
+</map>

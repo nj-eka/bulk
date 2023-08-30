@@ -1,0 +1,22 @@
+<map id="cmd::provider::InputStreamParser" name="cmd::provider::InputStreamParser">
+<area shape="rect" id="Node000001" title="Command parser from input stream." alt="" coords="194,1557,390,1971"/>
+<area shape="rect" id="Node000002" href="$classcore_1_1PublisherMixin.html" title=" " alt="" coords="102,1005,314,1489"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="252,1503,261,1557,256,1558,247,1503"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,304,173,385"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="72,386,59,419,49,454,25,589,14,696,16,748,22,803,49,937,69,1001,97,1063,92,1065,64,1003,44,938,16,804,10,748,9,696,19,588,44,453,54,417,67,384"/>
+<area shape="rect" id="Node000006" href="$classcore_1_1PublisherMixin.html" title=" " alt="" coords="102,453,314,937"/>
+<area shape="poly" id="edge6_Node000006_Node000003" title=" " alt="" coords="105,384,123,436,118,438,100,386"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="45,155,133,236"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="92,250,92,304,87,304,87,250"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="79,5,100,87"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="92,87,92,138,87,138,87,87"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="211,952,211,1005,205,1005,205,952"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="347,1207,429,1288"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="383,1288,336,1541,331,1540,378,1287"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="339,645,459,746"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="400,760,391,1207,386,1207,395,760"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="326,304,471,385"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="401,400,401,645,396,645,396,400"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="353,155,444,236"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="401,250,401,304,396,304,396,250"/>
+</map>

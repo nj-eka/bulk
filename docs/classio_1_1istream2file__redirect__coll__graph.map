@@ -1,0 +1,18 @@
+<map id="io::istream2file_redirect" name="io::istream2file_redirect">
+<area shape="rect" id="Node000001" title=" " alt="" coords="22,797,202,1075"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="49,543,130,624"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="95,624,105,780,99,780,89,624"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,267,125,368"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="74,382,88,543,83,543,68,382"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="63,136,209,217"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="112,231,93,268,88,266,107,229"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="149,267,269,368"/>
+<area shape="poly" id="edge8_Node000008_Node000004" title=" " alt="" coords="166,229,186,266,181,268,161,231"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="91,5,181,87"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="139,101,139,136,133,136,133,101"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="143,648,228,729"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="176,730,161,782,155,780,171,729"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="135,417,259,519"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="197,533,190,648,185,648,191,532"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="207,383,204,418,199,417,201,382"/>
+</map>

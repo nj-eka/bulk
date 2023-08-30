@@ -1,0 +1,13 @@
+<map id="bulk::provider::BulkTranslator" name="bulk::provider::BulkTranslator">
+<area shape="rect" id="Node000001" title=" " alt="" coords="217,1192,412,1540"/>
+<area shape="rect" id="Node000002" href="$structcore_1_1SubscriberBase.html" title=" " alt="" coords="5,694,184,1057"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="167,1069,198,1142,222,1191,217,1194,194,1144,162,1071"/>
+<area shape="rect" id="Node000003" href="$structcore_1_1SubscriberBase.html" title=" " alt="" coords="7,91,183,454"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="97,468,97,694,92,694,92,468"/>
+<area shape="rect" id="Node000004" href="$classcore_1_1PublisherMixin.html" title=" " alt="" coords="209,608,421,1143"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="317,1157,317,1193,312,1193,312,1157"/>
+<area shape="rect" id="Node000005" href="$classcore_1_1PublisherMixin.html" title=" " alt="" coords="209,5,421,540"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="317,554,317,608,312,608,312,554"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="445,825,627,926"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="516,940,480,1037,434,1144,411,1193,406,1191,430,1142,475,1035,511,939"/>
+</map>

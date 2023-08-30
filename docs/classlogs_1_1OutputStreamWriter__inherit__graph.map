@@ -1,0 +1,12 @@
+<map id="logs::OutputStreamWriter" name="logs::OutputStreamWriter">
+<area shape="rect" id="Node000001" title=" " alt="" coords="191,848,399,1276"/>
+<area shape="rect" id="Node000002" href="$structcore_1_1SubscriberBase.html" title=" " alt="" coords="5,436,184,799"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="184,810,201,847,196,849,180,813"/>
+<area shape="rect" id="Node000003" href="$structcore_1_1SubscriberBase.html" title=" " alt="" coords="105,5,281,368"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="132,382,129,393,120,437,115,436,124,391,127,381"/>
+<area shape="rect" id="Node000004" href="$structcore_1_1SubscriberBase.html" title=" " alt="" coords="208,436,381,799"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="255,381,257,391,267,436,262,437,252,393,250,383"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="297,813,297,848,292,848,292,813"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="405,567,619,668"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="484,681,401,850,396,848,479,679"/>
+</map>

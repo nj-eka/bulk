@@ -1,0 +1,33 @@
+<map id="bulk::provider::BulkTranslator" name="bulk::provider::BulkTranslator">
+<area shape="rect" id="Node000001" title=" " alt="" coords="471,1700,666,2023"/>
+<area shape="rect" id="Node000002" href="$structcore_1_1SubscriberBase.html" title=" " alt="" coords="561,1193,739,1556"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="620,1570,598,1701,593,1700,615,1569"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="527,385,597,467"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="563,467,559,568,558,713,563,880,577,1049,600,1177,595,1178,572,1050,557,880,553,713,554,568,557,466"/>
+<area shape="rect" id="Node000005" href="$structcore_1_1SubscriberBase.html" title=" " alt="" coords="611,611,787,973"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="579,466,628,594,623,596,574,468"/>
+<area shape="rect" id="Node000013" title=" " alt="" coords="357,751,513,833"/>
+<area shape="poly" id="edge15_Node000013_Node000003" title=" " alt="" coords="529,454,481,492,466,521,455,552,440,618,434,680,434,734,429,734,429,680,435,617,449,551,461,519,476,489,526,450"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="503,155,621,256"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="565,270,565,385,559,385,559,270"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="686,988,668,1194,663,1193,680,988"/>
+<area shape="rect" id="Node000006" href="$classcore_1_1PublisherMixin.html" title=" " alt="" coords="99,1117,311,1632"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="321,1626,324,1630,358,1673,396,1713,474,1784,470,1788,392,1717,354,1676,320,1634,317,1629"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="143,385,311,467"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="145,464,102,495,83,514,68,536,35,606,16,669,9,727,11,783,20,841,34,902,68,1049,96,1143,90,1144,63,1050,29,903,14,842,5,784,4,727,11,668,30,605,63,533,79,511,98,491,142,460"/>
+<area shape="rect" id="Node000010" href="$classcore_1_1PublisherMixin.html" title=" " alt="" coords="121,535,333,1049"/>
+<area shape="poly" id="edge11_Node000010_Node000007" title=" " alt="" coords="230,467,230,517,225,517,225,467"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="199,165,287,246"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="237,260,234,280,230,386,224,386,229,280,231,260"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="321,5,342,87"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="323,67,276,151,272,149,319,65"/>
+<area shape="rect" id="Node000014" title=" " alt="" coords="360,280,465,361"/>
+<area shape="poly" id="edge17_Node000014_Node000009" title=" " alt="" coords="344,62,369,110,392,189,407,263,402,264,387,191,364,112,340,65"/>
+<area shape="poly" id="edge10_Node000006_Node000010" title=" " alt="" coords="220,1064,217,1118,212,1118,214,1063"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="763,1324,945,1425"/>
+<area shape="poly" id="edge12_Node000001_Node000011" title=" " alt="" coords="837,1440,803,1533,780,1584,754,1633,713,1696,668,1754,664,1751,709,1692,749,1631,775,1582,798,1531,832,1438"/>
+<area shape="rect" id="Node000012" href="$namespacebulk.html#structbulk_1_1BulkEvent" title=" " alt="" coords="335,1324,536,1425"/>
+<area shape="poly" id="edge13_Node000001_Node000012" title=" " alt="" coords="452,1424,523,1683,518,1684,446,1426"/>
+<area shape="poly" id="edge14_Node000012_Node000013" title=" " alt="" coords="438,832,438,1307,433,1307,433,832"/>
+<area shape="poly" id="edge16_Node000013_Node000014" title=" " alt="" coords="418,375,436,752,431,752,413,376"/>
+</map>

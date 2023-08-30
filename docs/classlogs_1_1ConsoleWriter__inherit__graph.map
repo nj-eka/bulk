@@ -1,0 +1,12 @@
+<map id="logs::ConsoleWriter" name="logs::ConsoleWriter">
+<area shape="rect" id="Node000001" title=" " alt="" coords="205,848,384,1125"/>
+<area shape="rect" id="Node000002" href="$structcore_1_1SubscriberBase.html" title=" " alt="" coords="5,436,184,799"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="193,793,222,847,218,850,188,796"/>
+<area shape="rect" id="Node000003" href="$structcore_1_1SubscriberBase.html" title=" " alt="" coords="105,5,281,368"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="132,382,129,393,120,437,115,436,124,391,127,381"/>
+<area shape="rect" id="Node000004" href="$structcore_1_1SubscriberBase.html" title=" " alt="" coords="208,436,381,799"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="255,381,257,391,267,436,262,437,252,393,250,383"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="297,813,297,848,292,848,292,813"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="406,567,586,668"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="465,681,372,849,368,847,460,679"/>
+</map>

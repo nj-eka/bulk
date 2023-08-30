@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="1186px" preserveAspectRatio="none" style="width:3115px;height:1186px;background:#FFFFFF;" version="1.1" viewBox="0 0 3115 1186" width="3115px" zoomAndPan="magnify"><defs/><g><!--MD5=[551f35d7fc12f4c849523f57be9d3b75]
+cluster C_0000998616250274975378--><g id="cluster_C_0000998616250274975378"><path d="M1260.5,690.28 L1290.5,690.28 A3.75,3.75 0 0 1 1293,692.78 L1300,712.3786 L2061.5,712.3786 A2.5,2.5 0 0 1 2064,714.8786 L2064,1177.37 A2.5,2.5 0 0 1 2061.5,1179.87 L1260.5,1179.87 A2.5,2.5 0 0 1 1258,1177.37 L1258,692.78 A2.5,2.5 0 0 1 1260.5,690.28 " fill="none" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="1258" x2="1300" y1="712.3786" y2="712.3786"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="29" x="1262" y="705.4118">cmd</text></g><!--MD5=[9de3364f32f07f786ab6c69646caddc1]
+cluster C_0001459190657943733552--><g id="cluster_C_0001459190657943733552"><path d="M1538.5,733.28 L1600.5,733.28 A3.75,3.75 0 0 1 1603,735.78 L1610,755.3786 L2037.5,755.3786 A2.5,2.5 0 0 1 2040,757.8786 L2040,926.27 A2.5,2.5 0 0 1 2037.5,928.77 L1538.5,928.77 A2.5,2.5 0 0 1 1536,926.27 L1536,735.78 A2.5,2.5 0 0 1 1538.5,733.28 " fill="none" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="1536" x2="1610" y1="755.3786" y2="755.3786"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="61" x="1540" y="748.4118">provider</text></g><!--MD5=[274d254cd5c6a61a4b9a380a069a26f1]
+cluster C_0001135303388636126337--><g id="cluster_C_0001135303388636126337"><path d="M8.5,195.09 L41.5,195.09 A3.75,3.75 0 0 1 44,197.59 L51,217.1886 L451.5,217.1886 A2.5,2.5 0 0 1 454,219.6886 L454,902.17 A2.5,2.5 0 0 1 451.5,904.67 L8.5,904.67 A2.5,2.5 0 0 1 6,902.17 L6,197.59 A2.5,2.5 0 0 1 8.5,195.09 " fill="none" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="6" x2="51" y1="217.1886" y2="217.1886"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="32" x="10" y="210.2218">core</text></g><!--MD5=[47a6b03ee2c76f4f0166659d7dbefd4a]
+cluster C_0000846381584170450190--><g id="cluster_C_0000846381584170450190"><path d="M2090.5,6 L2121.5,6 A3.75,3.75 0 0 1 2124,8.5 L2131,28.0986 L3105.5,28.0986 A2.5,2.5 0 0 1 3108,30.5986 L3108,894.12 A2.5,2.5 0 0 1 3105.5,896.62 L2090.5,896.62 A2.5,2.5 0 0 1 2088,894.12 L2088,8.5 A2.5,2.5 0 0 1 2090.5,6 " fill="none" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="2088" x2="2131" y1="28.0986" y2="28.0986"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="30" x="2092" y="21.1318">bulk</text></g><!--MD5=[d3285be5d0224a8fb47ab67f0c0f0da1]
+cluster C_0000788986254373503399--><g id="cluster_C_0000788986254373503399"><path d="M2114.5,49 L2176.5,49 A3.75,3.75 0 0 1 2179,51.5 L2186,71.0986 L3081.5,71.0986 A2.5,2.5 0 0 1 3084,73.5986 L3084,621.68 A2.5,2.5 0 0 1 3081.5,624.18 L2114.5,624.18 A2.5,2.5 0 0 1 2112,621.68 L2112,51.5 A2.5,2.5 0 0 1 2114.5,49 " fill="none" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="2112" x2="2186" y1="71.0986" y2="71.0986"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="61" x="2116" y="64.1318">provider</text></g><!--MD5=[1948cb68e1f2aa34b1cb6d354e88ccd0]
+cluster C_0001744366389740023450--><g id="cluster_C_0001744366389740023450"><path d="M480.5,460.78 L511.5,460.78 A3.75,3.75 0 0 1 514,463.28 L521,482.8786 L2014.5,482.8786 A2.5,2.5 0 0 1 2017,485.3786 L2017,637.78 A2.5,2.5 0 0 1 2014.5,640.28 L480.5,640.28 A2.5,2.5 0 0 1 478,637.78 L478,463.28 A2.5,2.5 0 0 1 480.5,460.78 " fill="none" style="stroke:#000000;stroke-width:1.5;"/><line style="stroke:#000000;stroke-width:1.5;" x1="478" x2="521" y1="482.8786" y2="482.8786"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="30" x="482" y="475.9118">logs</text></g><!--MD5=[fe69c3583350995eba0979d8701211cc]
+class C_0002108854544683905111--><g id="elem_C_0002108854544683905111"><rect codeLine="5" fill="#F1F1F1" height="48" id="C_0002108854544683905111" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="96" x="1854" y="1115.87"/><ellipse cx="1869" cy="1131.87" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M1866.9063,1131.7138 Q1866.9063,1133.5888 1867.4844,1134.6044 Q1868.0625,1135.6044 1869.2188,1135.6044 Q1870.5625,1135.6044 1871.2188,1133.5888 L1873.4844,1134.0106 Q1872.375,1137.5419 1869.2031,1137.5419 Q1866.8594,1137.5419 1865.6406,1136.0575 Q1864.4219,1134.5731 1864.4219,1131.7138 Q1864.4219,1125.995 1869.125,1125.995 Q1870.6719,1125.995 1871.7031,1126.8075 Q1872.75,1127.62 1873.25,1129.2294 L1870.9844,1129.7763 Q1870.75,1128.9013 1870.2656,1128.4169 Q1869.7813,1127.9169 1869.1563,1127.9169 Q1866.9063,1127.9169 1866.9063,1131.7138 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="64" x="1883" y="1136.9525">Command</text><line style="stroke:#181818;stroke-width:0.5;" x1="1855" x2="1949" y1="1147.87" y2="1147.87"/><line style="stroke:#181818;stroke-width:0.5;" x1="1855" x2="1949" y1="1155.87" y2="1155.87"/></g><!--MD5=[a5b7a51124e0e3eaf20e08c7c47a03d6]
+class C_0002108854544683905329--><g id="elem_C_0002108854544683905329"><rect codeLine="10" fill="#F1F1F1" height="48" id="C_0002108854544683905329" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="142" x="1906" y="998.82"/><ellipse cx="1921" cy="1014.82" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M1918.9063,1014.6637 Q1918.9063,1016.5387 1919.4844,1017.5544 Q1920.0625,1018.5544 1921.2188,1018.5544 Q1922.5625,1018.5544 1923.2188,1016.5387 L1925.4844,1016.9606 Q1924.375,1020.4919 1921.2031,1020.4919 Q1918.8594,1020.4919 1917.6406,1019.0075 Q1916.4219,1017.5231 1916.4219,1014.6637 Q1916.4219,1008.945 1921.125,1008.945 Q1922.6719,1008.945 1923.7031,1009.7575 Q1924.75,1010.57 1925.25,1012.1794 L1922.9844,1012.7262 Q1922.75,1011.8512 1922.2656,1011.3669 Q1921.7813,1010.8669 1921.1563,1010.8669 Q1918.9063,1010.8669 1918.9063,1014.6637 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="110" x="1935" y="1019.9025">TokenBlockBegin</text><line style="stroke:#181818;stroke-width:0.5;" x1="1907" x2="2047" y1="1030.82" y2="1030.82"/><line style="stroke:#181818;stroke-width:0.5;" x1="1907" x2="2047" y1="1038.82" y2="1038.82"/></g><!--MD5=[35aeded530cd6c9dfe6a386f207069a1]
+class C_0000931216602795323068--><g id="elem_C_0000931216602795323068"><rect codeLine="15" fill="#F1F1F1" height="48" id="C_0000931216602795323068" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="131" x="1569.5" y="998.82"/><ellipse cx="1584.5" cy="1014.82" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M1582.4063,1014.6637 Q1582.4063,1016.5387 1582.9844,1017.5544 Q1583.5625,1018.5544 1584.7188,1018.5544 Q1586.0625,1018.5544 1586.7188,1016.5387 L1588.9844,1016.9606 Q1587.875,1020.4919 1584.7031,1020.4919 Q1582.3594,1020.4919 1581.1406,1019.0075 Q1579.9219,1017.5231 1579.9219,1014.6637 Q1579.9219,1008.945 1584.625,1008.945 Q1586.1719,1008.945 1587.2031,1009.7575 Q1588.25,1010.57 1588.75,1012.1794 L1586.4844,1012.7262 Q1586.25,1011.8512 1585.7656,1011.3669 Q1585.2813,1010.8669 1584.6563,1010.8669 Q1582.4063,1010.8669 1582.4063,1014.6637 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="99" x="1598.5" y="1019.9025">TokenBlockEnd</text><line style="stroke:#181818;stroke-width:0.5;" x1="1570.5" x2="1699.5" y1="1030.82" y2="1030.82"/><line style="stroke:#181818;stroke-width:0.5;" x1="1570.5" x2="1699.5" y1="1038.82" y2="1038.82"/></g><!--MD5=[1470b053098c6ece1ddadad17ea30fa3]
+class C_0000478406039010818340--><g id="elem_C_0000478406039010818340"><rect codeLine="20" fill="#F1F1F1" height="64.0986" id="C_0000478406039010818340" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="136" x="1735" y="990.77"/><ellipse cx="1750" cy="1006.77" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M1747.9063,1006.6137 Q1747.9063,1008.4887 1748.4844,1009.5044 Q1749.0625,1010.5044 1750.2188,1010.5044 Q1751.5625,1010.5044 1752.2188,1008.4887 L1754.4844,1008.9106 Q1753.375,1012.4419 1750.2031,1012.4419 Q1747.8594,1012.4419 1746.6406,1010.9575 Q1745.4219,1009.4731 1745.4219,1006.6137 Q1745.4219,1000.895 1750.125,1000.895 Q1751.6719,1000.895 1752.7031,1001.7075 Q1753.75,1002.52 1754.25,1004.1294 L1751.9844,1004.6762 Q1751.75,1003.8012 1751.2656,1003.3169 Q1750.7813,1002.8169 1750.1563,1002.8169 Q1747.9063,1002.8169 1747.9063,1006.6137 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="104" x="1764" y="1011.8525">TokenCommand</text><line style="stroke:#181818;stroke-width:0.5;" x1="1736" x2="1870" y1="1022.77" y2="1022.77"/><line style="stroke:#181818;stroke-width:0.5;" x1="1736" x2="1870" y1="1030.77" y2="1030.77"/><ellipse cx="1746" cy="1044.3193" fill="none" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="110" x="1755" y="1047.9018">value : Command</text></g><!--MD5=[b00be9f6a90b1e13ae1b944a8ab50c53]
+class C_0000672897217801684765--><g id="elem_C_0000672897217801684765"><rect codeLine="27" fill="#F1F1F1" height="48" id="C_0000672897217801684765" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="129" x="1405.5" y="998.82"/><ellipse cx="1420.5" cy="1014.82" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M1418.4063,1014.6637 Q1418.4063,1016.5387 1418.9844,1017.5544 Q1419.5625,1018.5544 1420.7188,1018.5544 Q1422.0625,1018.5544 1422.7188,1016.5387 L1424.9844,1016.9606 Q1423.875,1020.4919 1420.7031,1020.4919 Q1418.3594,1020.4919 1417.1406,1019.0075 Q1415.9219,1017.5231 1415.9219,1014.6637 Q1415.9219,1008.945 1420.625,1008.945 Q1422.1719,1008.945 1423.2031,1009.7575 Q1424.25,1010.57 1424.75,1012.1794 L1422.4844,1012.7262 Q1422.25,1011.8512 1421.7656,1011.3669 Q1421.2813,1010.8669 1420.6563,1010.8669 Q1418.4063,1010.8669 1418.4063,1014.6637 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="97" x="1434.5" y="1019.9025">TokenUnknown</text><line style="stroke:#181818;stroke-width:0.5;" x1="1406.5" x2="1533.5" y1="1030.82" y2="1030.82"/><line style="stroke:#181818;stroke-width:0.5;" x1="1406.5" x2="1533.5" y1="1038.82" y2="1038.82"/></g><!--MD5=[8471af2d78386bdc8897ed0bb918ca2f]
+class C_0001328753052865249363--><g id="elem_C_0001328753052865249363"><rect codeLine="32" fill="#F1F1F1" height="48" id="C_0001328753052865249363" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="97" x="1273.5" y="998.82"/><ellipse cx="1288.5" cy="1014.82" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M1286.4063,1014.6637 Q1286.4063,1016.5387 1286.9844,1017.5544 Q1287.5625,1018.5544 1288.7188,1018.5544 Q1290.0625,1018.5544 1290.7188,1016.5387 L1292.9844,1016.9606 Q1291.875,1020.4919 1288.7031,1020.4919 Q1286.3594,1020.4919 1285.1406,1019.0075 Q1283.9219,1017.5231 1283.9219,1014.6637 Q1283.9219,1008.945 1288.625,1008.945 Q1290.1719,1008.945 1291.2031,1009.7575 Q1292.25,1010.57 1292.75,1012.1794 L1290.4844,1012.7262 Q1290.25,1011.8512 1289.7656,1011.3669 Q1289.2813,1010.8669 1288.6563,1010.8669 Q1286.4063,1010.8669 1286.4063,1014.6637 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="65" x="1302.5" y="1019.9025">TokenEnd</text><line style="stroke:#181818;stroke-width:0.5;" x1="1274.5" x2="1369.5" y1="1030.82" y2="1030.82"/><line style="stroke:#181818;stroke-width:0.5;" x1="1274.5" x2="1369.5" y1="1038.82" y2="1038.82"/></g><!--MD5=[48dd424dbca6f56068c8b20238e41b1e]
+class C_0000373601393528651583--><g id="elem_C_0000373601393528651583"><rect codeLine="37" fill="#F1F1F1" height="64.0986" id="C_0000373601393528651583" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="108" x="1409" y="808.48"/><ellipse cx="1424" cy="824.48" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M1421.9063,824.3237 Q1421.9063,826.1987 1422.4844,827.2144 Q1423.0625,828.2144 1424.2188,828.2144 Q1425.5625,828.2144 1426.2188,826.1987 L1428.4844,826.6206 Q1427.375,830.1519 1424.2031,830.1519 Q1421.8594,830.1519 1420.6406,828.6675 Q1419.4219,827.1831 1419.4219,824.3237 Q1419.4219,818.605 1424.125,818.605 Q1425.6719,818.605 1426.7031,819.4175 Q1427.75,820.23 1428.25,821.8394 L1425.9844,822.3862 Q1425.75,821.5112 1425.2656,821.0269 Q1424.7813,820.5269 1424.1563,820.5269 Q1421.9063,820.5269 1421.9063,824.3237 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="76" x="1438" y="829.5625">TokenEvent</text><line style="stroke:#181818;stroke-width:0.5;" x1="1410" x2="1516" y1="840.48" y2="840.48"/><line style="stroke:#181818;stroke-width:0.5;" x1="1410" x2="1516" y1="848.48" y2="848.48"/><ellipse cx="1420" cy="862.0293" fill="none" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="81" x="1429" y="865.6118">index : size_t</text></g><!--MD5=[805ebb4d690013e5523f00a2b4a7ad4b]
+class C_0000749092891808018654--><g id="elem_C_0000749092891808018654"><rect codeLine="46" fill="#F1F1F1" height="144.4932" id="C_0000749092891808018654" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="473" x="1551.5" y="768.28"/><ellipse cx="1627.25" cy="784.28" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M1625.1563,784.1238 Q1625.1563,785.9988 1625.7344,787.0144 Q1626.3125,788.0144 1627.4688,788.0144 Q1628.8125,788.0144 1629.4688,785.9988 L1631.7344,786.4206 Q1630.625,789.9519 1627.4531,789.9519 Q1625.1094,789.9519 1623.8906,788.4675 Q1622.6719,786.9831 1622.6719,784.1238 Q1622.6719,778.405 1627.375,778.405 Q1628.9219,778.405 1629.9531,779.2175 Q1631,780.03 1631.5,781.6394 L1629.2344,782.1863 Q1629,781.3113 1628.5156,780.8269 Q1628.0313,780.3269 1627.4063,780.3269 Q1625.1563,780.3269 1625.1563,784.1238 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="118" x="1647.75" y="789.3625">InputStreamParser</text><rect fill="#FFFFFF" height="15.7988" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:2.0,2.0;" width="193" x="1834.5" y="765.28"/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="191" x="1835.5" y="777.5359">core::PublisherMixin&lt;TokenEvent&gt;</text><line style="stroke:#181818;stroke-width:0.5;" x1="1552.5" x2="2023.5" y1="800.28" y2="800.28"/><ellipse cx="1562.5" cy="813.8293" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="398" x="1571.5" y="817.4118">InputStreamParser(const InputStreamParser &amp;) = deleted : void</text><ellipse cx="1562.5" cy="829.9279" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="174" x="1571.5" y="833.5105">~InputStreamParser() : void</text><line style="stroke:#181818;stroke-width:1.0;stroke-dasharray:1.0,2.0;" x1="1552.5" x2="2023.5" y1="840.4773" y2="840.4773"/><ellipse cx="1562.5" cy="854.0266" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="447" x="1571.5" y="857.6091">operator=(const InputStreamParser &amp;) = deleted : InputStreamParser &amp;</text><line style="stroke:#181818;stroke-width:1.0;stroke-dasharray:1.0,2.0;" x1="1552.5" x2="2023.5" y1="864.5759" y2="864.5759"/><ellipse cx="1562.5" cy="878.1252" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" text-decoration="underline" textLength="206" x="1571.5" y="881.7077">instance() : InputStreamParser &amp;</text><ellipse cx="1562.5" cy="894.2238" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="69" x="1571.5" y="897.8064">run() : void</text><line style="stroke:#181818;stroke-width:0.5;" x1="1552.5" x2="2023.5" y1="904.7732" y2="904.7732"/></g><!--MD5=[d9c031d9f738fe3b52c88f98a2e82ca2]
+class C_0001264991387172177823--><g id="elem_C_0001264991387172177823"><rect codeLine="67" fill="#F1F1F1" height="96.2959" id="C_0001264991387172177823" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="150" x="288" y="792.38"/><ellipse cx="303" cy="808.38" fill="#EB937F" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M299.1406,813.88 L299.1406,802.6769 L307.1719,802.6769 L307.1719,804.5675 L301.5938,804.5675 L301.5938,807.2706 L306.6719,807.2706 L306.6719,809.1612 L301.5938,809.1612 L301.5938,811.9894 L307.5156,811.9894 L307.5156,813.88 L299.1406,813.88 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="118" x="317" y="813.4625">SubscriptionStatus</text><line style="stroke:#181818;stroke-width:0.5;" x1="289" x2="437" y1="824.38" y2="824.38"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="47" x="294" y="841.5118">READY</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="64" x="294" y="857.6105">SUSPEND</text><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="55" x="294" y="873.7091">CANCEL</text><line style="stroke:#181818;stroke-width:0.5;" x1="289" x2="437" y1="880.6759" y2="880.6759"/></g><!--MD5=[594d76d393982dc6740f820b2a4517d6]
+class C_0001486689738813699977--><g id="elem_C_0001486689738813699977"><rect codeLine="74" fill="#F1F1F1" height="136.4932" id="C_0001486689738813699977" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="397" x="40.5" y="491.78"/><ellipse cx="153.75" cy="507.78" fill="#A9DCDF" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M158.9531,512.28 L156.5156,512.28 L155.75,509.5456 L151.9688,509.5456 L151.2031,512.28 L148.75,512.28 L152.4219,501.0769 L155.2813,501.0769 L158.9531,512.28 Z M153.8594,502.5925 Q153.7813,502.9362 153.6094,503.6394 Q153.4375,504.3269 152.4844,507.7019 L155.2344,507.7019 Q154.2656,504.28 154.0938,503.6081 Q153.9219,502.9362 153.8594,502.5925 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="100" x="174.25" y="512.8625">SubscriberBase</text><rect fill="#FFFFFF" height="15.7988" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:2.0,2.0;" width="60" x="380.5" y="488.78"/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="58" x="381.5" y="501.0359">EventType</text><line style="stroke:#181818;stroke-width:0.5;" x1="41.5" x2="436.5" y1="523.78" y2="523.78"/><ellipse cx="51.5" cy="537.3293" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="215" x="60.5" y="540.9118">~SubscriberBase() = default : void</text><line style="stroke:#181818;stroke-width:1.0;stroke-dasharray:1.0,2.0;" x1="41.5" x2="436.5" y1="547.8786" y2="547.8786"/><ellipse cx="51.5" cy="561.4279" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="171" x="60.5" y="565.0105">_subscriberID() : std::string</text><ellipse cx="51.5" cy="577.5266" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="307" x="60.5" y="581.1091">getSubscriberName() const noexcept : std::string</text><ellipse cx="51.5" cy="593.6252" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="339" x="60.5" y="597.2077">getSubscriptionStatus() noexcept : SubscriptionStatus</text><ellipse cx="51.5" cy="609.7238" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" font-style="italic" lengthAdjust="spacing" textLength="371" x="60.5" y="613.3064">onEvent(const EventType &amp; event) = 0 : SubscriptionStatus</text><line style="stroke:#181818;stroke-width:0.5;" x1="41.5" x2="436.5" y1="620.2732" y2="620.2732"/></g><!--MD5=[f107c6e94322edb9362f08e24ae0a6fa]
+class C_0000790719520225289803--><g id="elem_C_0000790719520225289803"><rect codeLine="90" fill="#F1F1F1" height="168.6904" id="C_0000790719520225289803" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="415" x="22.5" y="230.09"/><ellipse cx="149.75" cy="246.09" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M147.6563,245.9337 Q147.6563,247.8087 148.2344,248.8244 Q148.8125,249.8244 149.9688,249.8244 Q151.3125,249.8244 151.9688,247.8087 L154.2344,248.2306 Q153.125,251.7619 149.9531,251.7619 Q147.6094,251.7619 146.3906,250.2775 Q145.1719,248.7931 145.1719,245.9337 Q145.1719,240.215 149.875,240.215 Q151.4219,240.215 152.4531,241.0275 Q153.5,241.84 154,243.4494 L151.7344,243.9962 Q151.5,243.1212 151.0156,242.6369 Q150.5313,242.1369 149.9063,242.1369 Q147.6563,242.1369 147.6563,245.9337 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="90" x="170.25" y="251.1725">PublisherMixin</text><rect fill="#FFFFFF" height="15.7988" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:2.0,2.0;" width="60" x="380.5" y="227.09"/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="58" x="381.5" y="239.3459">EventType</text><line style="stroke:#181818;stroke-width:0.5;" x1="23.5" x2="436.5" y1="262.09" y2="262.09"/><polygon fill="#FFFF44" points="33.5,270.6393,37.5,274.6393,33.5,278.6393,29.5,274.6393" style="stroke:#B38D22;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="138" x="42.5" y="279.2218">PublisherMixin() : void</text><ellipse cx="33.5" cy="291.7379" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="205" x="42.5" y="295.3205">~PublisherMixin() = default : void</text><line style="stroke:#181818;stroke-width:1.0;stroke-dasharray:1.0,2.0;" x1="23.5" x2="436.5" y1="302.2873" y2="302.2873"/><ellipse cx="33.5" cy="315.8366" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="79" x="42.5" y="319.4191">clear() : void</text><polygon fill="#FFFF44" points="33.5,326.9352,37.5,330.9352,33.5,334.9352,29.5,330.9352" style="stroke:#B38D22;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="240" x="42.5" y="335.5177">notify(const EventType &amp; event) : void</text><ellipse cx="33.5" cy="348.0338" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="389" x="42.5" y="351.6164">subscribe(const SPtrSubscriber &amp; subscriber, bool own) : void</text><ellipse cx="33.5" cy="364.1325" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="296" x="42.5" y="367.715">subscribe(SPtrSubscriber &amp;&amp; subscriber) : void</text><ellipse cx="33.5" cy="380.2311" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="341" x="42.5" y="383.8136">unsubscribe(const SPtrSubscriber &amp; subscriber) : void</text><line style="stroke:#181818;stroke-width:0.5;" x1="23.5" x2="436.5" y1="390.7804" y2="390.7804"/></g><!--MD5=[ef76d60f2c270ac87357f0b8720598b8]
+class C_0000790450299338889175--><g id="elem_C_0000790450299338889175"><rect codeLine="113" fill="#F1F1F1" height="80.1973" id="C_0000790450299338889175" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="346" x="2104" y="800.43"/><ellipse cx="2241.25" cy="816.43" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M2239.1563,816.2737 Q2239.1563,818.1487 2239.7344,819.1644 Q2240.3125,820.1644 2241.4688,820.1644 Q2242.8125,820.1644 2243.4688,818.1487 L2245.7344,818.5706 Q2244.625,822.1019 2241.4531,822.1019 Q2239.1094,822.1019 2237.8906,820.6175 Q2236.6719,819.1331 2236.6719,816.2737 Q2236.6719,810.555 2241.375,810.555 Q2242.9219,810.555 2243.9531,811.3675 Q2245,812.18 2245.5,813.7894 L2243.2344,814.3362 Q2243,813.4612 2242.5156,812.9769 Q2242.0313,812.4769 2241.4063,812.4769 Q2239.1563,812.4769 2239.1563,816.2737 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="63" x="2261.75" y="821.5125">BulkEvent</text><line style="stroke:#181818;stroke-width:0.5;" x1="2105" x2="2449" y1="832.43" y2="832.43"/><line style="stroke:#181818;stroke-width:0.5;" x1="2105" x2="2449" y1="840.43" y2="840.43"/><ellipse cx="2115" cy="853.9793" fill="none" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="260" x="2124" y="857.5618">commands : std::vector&lt;cmd::Command&gt;</text><ellipse cx="2115" cy="870.0779" fill="none" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="320" x="2124" y="873.6605">time_stamp : std::chrono::system_clock::time_point</text></g><!--MD5=[b1be6450ce0359a25c6de220a70f7d13]
+class C_0000852165071924393274--><g id="elem_C_0000852165071924393274"><rect codeLine="124" fill="#F1F1F1" height="96.2959" id="C_0000852165071924393274" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="802" x="2128" y="511.88"/><ellipse cx="2143" cy="527.88" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M2140.9063,527.7237 Q2140.9063,529.5987 2141.4844,530.6144 Q2142.0625,531.6144 2143.2188,531.6144 Q2144.5625,531.6144 2145.2188,529.5987 L2147.4844,530.0206 Q2146.375,533.5519 2143.2031,533.5519 Q2140.8594,533.5519 2139.6406,532.0675 Q2138.4219,530.5831 2138.4219,527.7237 Q2138.4219,522.005 2143.125,522.005 Q2144.6719,522.005 2145.7031,522.8175 Q2146.75,523.63 2147.25,525.2394 L2144.9844,525.7862 Q2144.75,524.9112 2144.2656,524.4269 Q2143.7813,523.9269 2143.1563,523.9269 Q2140.9063,523.9269 2140.9063,527.7237 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="92" x="2157" y="532.9625">BulkTranslator</text><rect fill="#FFFFFF" height="15.7988" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:2.0,2.0;" width="676" x="2257" y="508.88"/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="674" x="2258" y="521.1359">core::SubscriberBase&lt;cmd::TokenEvent&gt;,core::PublisherMixin&lt;BulkEvent&gt;,std::enable_shared_from_this&lt;BulkTranslator&gt;</text><line style="stroke:#181818;stroke-width:0.5;" x1="2129" x2="2929" y1="543.88" y2="543.88"/><ellipse cx="2139" cy="557.4293" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" text-decoration="underline" textLength="378" x="2148" y="561.0118">create(size_t BULK_SIZE) : std::shared_ptr&lt;BulkTranslator&gt;</text><ellipse cx="2139" cy="573.5279" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="375" x="2148" y="577.1105">getSubscriptionStatus() noexcept : core::SubscriptionStatus</text><ellipse cx="2139" cy="589.6266" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="428" x="2148" y="593.2091">onEvent(const cmd::TokenEvent &amp; event) : core::SubscriptionStatus</text><line style="stroke:#181818;stroke-width:0.5;" x1="2129" x2="2929" y1="600.1759" y2="600.1759"/></g><!--MD5=[b4c38442a2e89717f3e66b39961e628a]
+class C_0001816566075137054504--><g id="elem_C_0001816566075137054504"><rect codeLine="135" fill="#F1F1F1" height="48" id="C_0001816566075137054504" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="165" x="2446.5" y="290.44"/><ellipse cx="2461.5" cy="306.44" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M2459.4063,306.2837 Q2459.4063,308.1587 2459.9844,309.1744 Q2460.5625,310.1744 2461.7188,310.1744 Q2463.0625,310.1744 2463.7188,308.1587 L2465.9844,308.5806 Q2464.875,312.1119 2461.7031,312.1119 Q2459.3594,312.1119 2458.1406,310.6275 Q2456.9219,309.1431 2456.9219,306.2837 Q2456.9219,300.565 2461.625,300.565 Q2463.1719,300.565 2464.2031,301.3775 Q2465.25,302.19 2465.75,303.7994 L2463.4844,304.3462 Q2463.25,303.4712 2462.7656,302.9869 Q2462.2813,302.4869 2461.6563,302.4869 Q2459.4063,302.4869 2459.4063,306.2837 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="133" x="2475.5" y="311.5225">BulkTranslator::State</text><line style="stroke:#181818;stroke-width:0.5;" x1="2447.5" x2="2610.5" y1="322.44" y2="322.44"/><line style="stroke:#181818;stroke-width:0.5;" x1="2447.5" x2="2610.5" y1="330.44" y2="330.44"/></g><!--MD5=[ac38b2d7fb3e28ea3f8da4982875ec6c]
+class C_0001717483028495583254--><g id="elem_C_0001717483028495583254"><rect codeLine="140" fill="#F1F1F1" height="48" id="C_0001717483028495583254" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="205" x="2863.5" y="92.05"/><ellipse cx="2878.5" cy="108.05" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M2876.4063,107.8937 Q2876.4063,109.7687 2876.9844,110.7844 Q2877.5625,111.7844 2878.7188,111.7844 Q2880.0625,111.7844 2880.7188,109.7687 L2882.9844,110.1906 Q2881.875,113.7219 2878.7031,113.7219 Q2876.3594,113.7219 2875.1406,112.2375 Q2873.9219,110.7531 2873.9219,107.8937 Q2873.9219,102.175 2878.625,102.175 Q2880.1719,102.175 2881.2031,102.9875 Q2882.25,103.8 2882.75,105.4094 L2880.4844,105.9562 Q2880.25,105.0812 2879.7656,104.5969 Q2879.2813,104.0969 2878.6563,104.0969 Q2876.4063,104.0969 2876.4063,107.8937 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="173" x="2892.5" y="113.1325">BulkTranslator::State::Base</text><line style="stroke:#181818;stroke-width:0.5;" x1="2864.5" x2="3067.5" y1="124.05" y2="124.05"/><line style="stroke:#181818;stroke-width:0.5;" x1="2864.5" x2="3067.5" y1="132.05" y2="132.05"/></g><!--MD5=[8486815182869ddcca70d08b94ea52f3]
+class C_0000000828928632256298--><g id="elem_C_0000000828928632256298"><rect codeLine="145" fill="#F1F1F1" height="64.0986" id="C_0000000828928632256298" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="207" x="2621.5" y="84"/><ellipse cx="2636.5" cy="100" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M2634.4063,99.8438 Q2634.4063,101.7188 2634.9844,102.7344 Q2635.5625,103.7344 2636.7188,103.7344 Q2638.0625,103.7344 2638.7188,101.7188 L2640.9844,102.1406 Q2639.875,105.6719 2636.7031,105.6719 Q2634.3594,105.6719 2633.1406,104.1875 Q2631.9219,102.7031 2631.9219,99.8438 Q2631.9219,94.125 2636.625,94.125 Q2638.1719,94.125 2639.2031,94.9375 Q2640.25,95.75 2640.75,97.3594 L2638.4844,97.9063 Q2638.25,97.0313 2637.7656,96.5469 Q2637.2813,96.0469 2636.6563,96.0469 Q2634.4063,96.0469 2634.4063,99.8438 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="175" x="2650.5" y="105.0825">BulkTranslator::State::Block</text><line style="stroke:#181818;stroke-width:0.5;" x1="2622.5" x2="2827.5" y1="116" y2="116"/><line style="stroke:#181818;stroke-width:0.5;" x1="2622.5" x2="2827.5" y1="124" y2="124"/><ellipse cx="2632.5" cy="137.5493" fill="none" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="77" x="2641.5" y="141.1318">level : size_t</text></g><!--MD5=[59262fada860f66ec5ec315b2751c7b1]
+class C_0001371918154553346107--><g id="elem_C_0001371918154553346107"><rect codeLine="152" fill="#F1F1F1" height="48" id="C_0001371918154553346107" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="212" x="2375" y="92.05"/><ellipse cx="2390" cy="108.05" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M2387.9063,107.8937 Q2387.9063,109.7687 2388.4844,110.7844 Q2389.0625,111.7844 2390.2188,111.7844 Q2391.5625,111.7844 2392.2188,109.7687 L2394.4844,110.1906 Q2393.375,113.7219 2390.2031,113.7219 Q2387.8594,113.7219 2386.6406,112.2375 Q2385.4219,110.7531 2385.4219,107.8937 Q2385.4219,102.175 2390.125,102.175 Q2391.6719,102.175 2392.7031,102.9875 Q2393.75,103.8 2394.25,105.4094 L2391.9844,105.9562 Q2391.75,105.0812 2391.2656,104.5969 Q2390.7813,104.0969 2390.1563,104.0969 Q2387.9063,104.0969 2387.9063,107.8937 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="180" x="2404" y="113.1325">BulkTranslator::State::Failed</text><line style="stroke:#181818;stroke-width:0.5;" x1="2376" x2="2586" y1="124.05" y2="124.05"/><line style="stroke:#181818;stroke-width:0.5;" x1="2376" x2="2586" y1="132.05" y2="132.05"/></g><!--MD5=[a13f3e45878c08b2afbf3911ad72bdb3]
+class C_0001559011054215970555--><g id="elem_C_0001559011054215970555"><rect codeLine="157" fill="#F1F1F1" height="48" id="C_0001559011054215970555" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="211" x="2128.5" y="92.05"/><ellipse cx="2143.5" cy="108.05" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M2141.4063,107.8937 Q2141.4063,109.7687 2141.9844,110.7844 Q2142.5625,111.7844 2143.7188,111.7844 Q2145.0625,111.7844 2145.7188,109.7687 L2147.9844,110.1906 Q2146.875,113.7219 2143.7031,113.7219 Q2141.3594,113.7219 2140.1406,112.2375 Q2138.9219,110.7531 2138.9219,107.8937 Q2138.9219,102.175 2143.625,102.175 Q2145.1719,102.175 2146.2031,102.9875 Q2147.25,103.8 2147.75,105.4094 L2145.4844,105.9562 Q2145.25,105.0812 2144.7656,104.5969 Q2144.2813,104.0969 2143.6563,104.0969 Q2141.4063,104.0969 2141.4063,107.8937 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="179" x="2157.5" y="113.1325">BulkTranslator::State::Finish</text><line style="stroke:#181818;stroke-width:0.5;" x1="2129.5" x2="2338.5" y1="124.05" y2="124.05"/><line style="stroke:#181818;stroke-width:0.5;" x1="2129.5" x2="2338.5" y1="132.05" y2="132.05"/></g><!--MD5=[5378a4989057e82aa2bf25ca29454ba9]
+class C_0001425142858652026649--><g id="elem_C_0001425142858652026649"><rect codeLine="166" fill="#F1F1F1" height="96.2959" id="C_0001425142858652026649" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="837" x="1163.5" y="511.88"/><ellipse cx="1178.5" cy="527.88" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M1176.4063,527.7237 Q1176.4063,529.5987 1176.9844,530.6144 Q1177.5625,531.6144 1178.7188,531.6144 Q1180.0625,531.6144 1180.7188,529.5987 L1182.9844,530.0206 Q1181.875,533.5519 1178.7031,533.5519 Q1176.3594,533.5519 1175.1406,532.0675 Q1173.9219,530.5831 1173.9219,527.7237 Q1173.9219,522.005 1178.625,522.005 Q1180.1719,522.005 1181.2031,522.8175 Q1182.25,523.63 1182.75,525.2394 L1180.4844,525.7862 Q1180.25,524.9112 1179.7656,524.4269 Q1179.2813,523.9269 1178.6563,523.9269 Q1176.4063,523.9269 1176.4063,527.7237 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="90" x="1192.5" y="532.9625">ConsoleWriter</text><rect fill="#FFFFFF" height="15.7988" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:2.0,2.0;" width="713" x="1290.5" y="508.88"/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="711" x="1291.5" y="521.1359">core::SubscriberBase&lt;cmd::TokenEvent&gt;,core::SubscriberBase&lt;bulk::BulkEvent&gt;,std::enable_shared_from_this&lt;ConsoleWriter&gt;</text><line style="stroke:#181818;stroke-width:0.5;" x1="1164.5" x2="1999.5" y1="543.88" y2="543.88"/><ellipse cx="1174.5" cy="557.4293" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" text-decoration="underline" textLength="264" x="1183.5" y="561.0118">create() : std::shared_ptr&lt;ConsoleWriter&gt;</text><ellipse cx="1174.5" cy="573.5279" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="415" x="1183.5" y="577.1105">onEvent(const bulk::BulkEvent &amp; event) : core::SubscriptionStatus</text><ellipse cx="1174.5" cy="589.6266" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="428" x="1183.5" y="593.2091">onEvent(const cmd::TokenEvent &amp; event) : core::SubscriptionStatus</text><line style="stroke:#181818;stroke-width:0.5;" x1="1164.5" x2="1999.5" y1="600.1759" y2="600.1759"/></g><!--MD5=[03f4faddda5312fdcddae7f8361edc04]
+class C_0000859028499174424449--><g id="elem_C_0000859028499174424449"><rect codeLine="177" fill="#F1F1F1" height="128.4932" id="C_0000859028499174424449" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="635" x="493.5" y="495.78"/><ellipse cx="547.75" cy="511.78" fill="#ADD1B2" rx="11" ry="11" style="stroke:#181818;stroke-width:1.0;"/><path d="M545.6563,511.6237 Q545.6563,513.4987 546.2344,514.5144 Q546.8125,515.5144 547.9688,515.5144 Q549.3125,515.5144 549.9688,513.4987 L552.2344,513.9206 Q551.125,517.4519 547.9531,517.4519 Q545.6094,517.4519 544.3906,515.9675 Q543.1719,514.4831 543.1719,511.6237 Q543.1719,505.905 547.875,505.905 Q549.4219,505.905 550.4531,506.7175 Q551.5,507.53 552,509.1394 L549.7344,509.6862 Q549.5,508.8112 549.0156,508.3269 Q548.5313,507.8269 547.9063,507.8269 Q545.6563,507.8269 545.6563,511.6237 Z " fill="#000000"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="61" x="568.25" y="516.8625">FileWriter</text><rect fill="#FFFFFF" height="15.7988" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:2.0,2.0;" width="455" x="676.5" y="492.78"/><text fill="#000000" font-family="sans-serif" font-size="12" font-style="italic" lengthAdjust="spacing" textLength="453" x="677.5" y="505.0359">core::SubscriberBase&lt;bulk::BulkEvent&gt;,std::enable_shared_from_this&lt;FileWriter&gt;</text><line style="stroke:#181818;stroke-width:0.5;" x1="494.5" x2="1127.5" y1="527.78" y2="527.78"/><ellipse cx="504.5" cy="541.3293" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" text-decoration="underline" textLength="609" x="513.5" y="544.9118">create(std::string_view output_directory, std::string_view name = "") : std::shared_ptr&lt;FileWriter&gt;</text><ellipse cx="504.5" cy="557.4279" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="307" x="513.5" y="561.0105">getSubscriberName() const noexcept : std::string</text><ellipse cx="504.5" cy="573.5266" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="375" x="513.5" y="577.1091">getSubscriptionStatus() noexcept : core::SubscriptionStatus</text><ellipse cx="504.5" cy="589.6252" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="415" x="513.5" y="593.2077">onEvent(const bulk::BulkEvent &amp; event) : core::SubscriptionStatus</text><ellipse cx="504.5" cy="605.7238" fill="#84BE84" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="435" x="513.5" y="609.3064">setSubscriptionStatus(core::SubscriptionStatus state) noexcept : void</text><line style="stroke:#181818;stroke-width:0.5;" x1="494.5" x2="1127.5" y1="616.2732" y2="616.2732"/></g><!--MD5=[3cb7f4c00bdb8a3b5b01d45a0e1ebc02]
+reverse link C_0000373601393528651583 to C_0002108854544683905329--><g id="link_C_0000373601393528651583_C_0002108854544683905329"><path codeLine="191" d="M1484.64,884.59 C1496.87,904.11 1514.13,925.35 1536,936.77 C1553.15,945.73 1690.86,941.9 1710,944.77 C1791.23,956.94 1810.42,966.86 1889,990.77 C1896.75,993.13 1904.83,995.75 1912.81,998.44 " fill="none" id="C_0000373601393528651583-backto-C_0002108854544683905329" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="none" points="1477.68,873.75,1477.2732,880.9496,1483.7625,884.0942,1484.1693,876.8946,1477.68,873.75" style="stroke:#181818;stroke-width:1.0;"/><ellipse cx="1794" cy="953.7444" fill="none" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="32" x="1801" y="957.9638">token</text></g><!--MD5=[3df2273ed50e5977f57b69781f1d5465]
+reverse link C_0000373601393528651583 to C_0000931216602795323068--><g id="link_C_0000373601393528651583_C_0000931216602795323068"><path codeLine="192" d="M1492.38,883.69 C1505.05,900.82 1520.5,920.38 1536,936.77 C1557.33,959.33 1584.18,982.1 1604.54,998.39 " fill="none" id="C_0000373601393528651583-backto-C_0000931216602795323068" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="none" points="1484.49,873.85,1484.7887,881.0549,1491.5543,883.5503,1491.2556,876.3454,1484.49,873.85" style="stroke:#181818;stroke-width:1.0;"/><ellipse cx="1564" cy="953.7444" fill="none" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="32" x="1571" y="957.9638">token</text></g><!--MD5=[286cf573e432679198983ea154438f6d]
+reverse link C_0000373601393528651583 to C_0000478406039010818340--><g id="link_C_0000373601393528651583_C_0000478406039010818340"><path codeLine="193" d="M1485.37,884.71 C1497.65,903.92 1514.73,924.85 1536,936.77 C1565.63,953.38 1579.04,936.56 1612,944.77 C1636.11,950.78 1690.35,972.98 1734.89,992.01 " fill="none" id="C_0000373601393528651583-backto-C_0000478406039010818340" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="none" points="1478.18,873.76,1477.8547,880.9638,1484.3791,884.0348,1484.7045,876.831,1478.18,873.76" style="stroke:#181818;stroke-width:1.0;"/><ellipse cx="1664" cy="953.7444" fill="none" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="32" x="1671" y="957.9638">token</text></g><!--MD5=[795b98b4806ebf2a29d5bdc336913d87]
+reverse link C_0000373601393528651583 to C_0001328753052865249363--><g id="link_C_0000373601393528651583_C_0001328753052865249363"><path codeLine="194" d="M1430.14,883.54 C1402.14,919.34 1362.93,969.48 1340.23,998.51 " fill="none" id="C_0000373601393528651583-backto-C_0001328753052865249363" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="none" points="1438.44,873.93,1431.5943,876.1965,1431.0536,883.3873,1437.8992,881.1208,1438.44,873.93" style="stroke:#181818;stroke-width:1.0;"/><ellipse cx="1385" cy="953.7444" fill="none" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="32" x="1392" y="957.9638">token</text></g><!--MD5=[6a0a0ed8645a5eef2a16c46b1638d467]
+reverse link C_0000373601393528651583 to C_0000672897217801684765--><g id="link_C_0000373601393528651583_C_0000672897217801684765"><path codeLine="195" d="M1464.76,886.82 C1466.14,922.35 1468,970.35 1469.09,998.51 " fill="none" id="C_0000373601393528651583-backto-C_0000672897217801684765" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="none" points="1464.22,873.93,1460.4606,880.0836,1464.6949,885.9206,1468.4543,879.767,1464.22,873.93" style="stroke:#181818;stroke-width:1.0;"/><ellipse cx="1473" cy="953.7444" fill="none" rx="3" ry="3" style="stroke:#038048;stroke-width:1.0;"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="32" x="1480" y="957.9638">token</text></g><!--MD5=[8ccdb3cd289f68af417082823f473337]
+link C_0000749092891808018654 to C_0000790719520225289803--><g id="link_C_0000749092891808018654_C_0000790719520225289803"><path codeLine="196" d="M1911.7,767.8 C1953.11,736.81 1994.45,696.49 2017,648.28 C2053.81,569.58 2076.04,516.53 2017,452.78 C1913.18,340.68 916.69,319.75 458.46,316.08 " fill="none" id="C_0000749092891808018654-to-C_0000790719520225289803" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="none" points="458.67,323.07,438.72,315.92,458.78,309.07,458.67,323.07" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[db284b5cc3acdc0fa84660bfb23aefa3]
+link C_0000749092891808018654 to C_0002108854544683905329--><g id="link_C_0000749092891808018654_C_0002108854544683905329"><path codeLine="197" d="M1862.97,913.04 C1893.05,941.73 1925.88,973.06 1948.56,994.69 " fill="none" id="C_0000749092891808018654-to-C_0002108854544683905329" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#181818" points="1951.68,997.62,1947.9411,988.5084,1948.0668,994.1639,1942.4113,994.2896,1951.68,997.62" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[a309d423c7d754341d9753fa587e1066]
+link C_0000749092891808018654 to C_0000931216602795323068--><g id="link_C_0000749092891808018654_C_0000931216602795323068"><path codeLine="198" d="M1735.1,913 C1727.56,923.57 1720,934.39 1713,944.77 C1708.31,951.72 1708.4,954.35 1703,960.77 C1692.91,972.78 1680.47,984.62 1669,994.63 " fill="none" id="C_0000749092891808018654-to-C_0000931216602795323068" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#181818" points="1665.49,998.51,1674.9265,995.6899,1669.2863,995.256,1669.7201,989.6159,1665.49,998.51" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[f866fe27632d28cc755da69561a5457a]
+link C_0000749092891808018654 to C_0000478406039010818340--><g id="link_C_0000749092891808018654_C_0000478406039010818340"><path codeLine="199" d="M1793.95,913.04 C1795.99,937.56 1798.19,964 1799.91,984.67 " fill="none" id="C_0000749092891808018654-to-C_0000478406039010818340" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#181818" points="1800.4,989.62,1803.6388,980.3189,1799.9848,984.6373,1795.6664,980.9833,1800.4,989.62" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[bff2809cd615f9f95b5526a9f8c71d44]
+link C_0000749092891808018654 to C_0001328753052865249363--><g id="link_C_0000749092891808018654_C_0001328753052865249363"><path codeLine="200" d="M1599.6,913.24 C1578.13,923.11 1556.85,933.68 1537,944.77 C1526.45,950.67 1525.99,955.73 1515,960.77 C1462.29,984.97 1442.76,971.66 1388,990.77 C1383.45,992.36 1378.79,994.17 1374.15,996.08 " fill="none" id="C_0000749092891808018654-to-C_0001328753052865249363" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#181818" points="1369.73,998.39,1379.5776,998.5472,1374.3309,996.4325,1376.4456,991.1858,1369.73,998.39" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[f042364eee84d1eba96ef4a317a2fd6e]
+link C_0000749092891808018654 to C_0000672897217801684765--><g id="link_C_0000749092891808018654_C_0000672897217801684765"><path codeLine="201" d="M1657.32,913.26 C1644.04,923.01 1631.3,933.56 1620,944.77 C1614.05,950.68 1616.35,955.29 1610,960.77 C1603.47,966.4 1567.45,982.07 1533.58,996.12 " fill="none" id="C_0000749092891808018654-to-C_0000672897217801684765" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#181818" points="1529.17,998.36,1539.0158,998.6059,1533.7883,996.444,1535.9502,991.2166,1529.17,998.36" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[42a15ca93adbc29c8fa3307990abfeac]
+link C_0001486689738813699977 to C_0001264991387172177823--><g id="link_C_0001486689738813699977_C_0001264991387172177823"><path codeLine="202" d="M269.02,628.45 C290.64,677.02 319.42,741.65 339.41,786.54 " fill="none" id="C_0001486689738813699977-to-C_0001264991387172177823" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#181818" points="341.8,790.92,341.8057,781.0711,339.772,786.3498,334.4933,784.316,341.8,790.92" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[1f3947d1da4e2a4e97724b5089c73784]
+link C_0000790719520225289803 to C_0001486689738813699977--><g id="link_C_0000790719520225289803_C_0001486689738813699977"><path codeLine="203" d="M218.69,398.94 C217.82,414.19 217.71,429.97 219,444.78 C220.15,458.04 222.04,472.06 224.21,485.57 " fill="none" id="C_0000790719520225289803-to-C_0001486689738813699977" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#181818" points="225.15,490.32,227.6563,480.7954,224.3489,485.3846,219.7597,482.0772,225.15,490.32" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[87c9b050fb9c5379419fb8b4d6fb3a22]
+reverse link C_0000790719520225289803 to C_0001486689738813699977--><g id="link_C_0000790719520225289803_C_0001486689738813699977"><path codeLine="204" d="M233.61,413.25 C234.58,439.53 235.61,467.35 236.51,491.56 " fill="none" id="C_0000790719520225289803-backto-C_0001486689738813699977" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="none" points="233.1,400.27,229.3271,406.4153,233.5485,412.2616,237.3215,406.1163,233.1,400.27" style="stroke:#181818;stroke-width:1.0;"/><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="238" y="434.7544"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="35" x="248" y="441.9738">_subs</text></g><!--MD5=[1003ccc60067328a878df71c6c941841]
+reverse link C_0001486689738813699977 to C_0001425142858652026649--><g id="link_C_0001486689738813699977_C_0001425142858652026649"><path codeLine="205" d="M360.51,481.17 C401.69,458.69 449.05,437.21 495.5,425.78 C632.1,392.2 989.29,405.61 1128.5,425.78 C1241.05,442.09 1364.55,480.05 1454.22,511.46 " fill="none" id="C_0001486689738813699977-backto-C_0001425142858652026649" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="none" points="364.22,487.68,343.35,491.37,357.36,475.47,364.22,487.68" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[f2ec0fd13ff7cd3915473b9aebb008eb]
+reverse link C_0001486689738813699977 to C_0000852165071924393274--><g id="link_C_0001486689738813699977_C_0000852165071924393274"><path codeLine="206" d="M360.51,481.17 C401.69,458.69 449.05,437.21 495.5,425.78 C657.78,385.89 1833.68,405.09 1999.5,425.78 C2129.84,442.05 2274.13,480.01 2379.13,511.43 " fill="none" id="C_0001486689738813699977-backto-C_0000852165071924393274" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="none" points="364.22,487.68,343.35,491.37,357.36,475.47,364.22,487.68" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[22eae9079b234d40e013d746a0a572ef]
+reverse link C_0000790719520225289803 to C_0000852165071924393274--><g id="link_C_0000790719520225289803_C_0000852165071924393274"><path codeLine="207" d="M458.36,323.12 C882.12,338.42 1774.77,375.84 2080,428.78 C2187.56,447.44 2306.04,482.45 2394.27,511.47 " fill="none" id="C_0000790719520225289803-backto-C_0000852165071924393274" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="none" points="458.35,330.09,438.62,322.37,458.86,316.1,458.35,330.09" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[f935b0a89affa9b8c79206cfbe0c1761]
+reverse link C_0001486689738813699977 to C_0000859028499174424449--><g id="link_C_0001486689738813699977_C_0000859028499174424449"><path codeLine="208" d="M458.63,560.03 C470.17,560.03 481.71,560.03 493.25,560.03 " fill="none" id="C_0001486689738813699977-backto-C_0000859028499174424449" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="none" points="458.86,567.03,438.86,560.03,458.86,553.03,458.86,567.03" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[0d2870ee40f6782f76f1e44fdc0ade43]
+link C_0000852165071924393274 to C_0001264991387172177823--><g id="link_C_0000852165071924393274_C_0001264991387172177823"><path codeLine="209" d="M2287.33,608.67 C2202.21,623.73 2105.66,638.88 2017,648.28 C1912.6,659.34 1885.88,653.65 1781,658.28 C1548.54,668.54 1489.29,656.76 1258,682.28 C955.22,715.68 600.03,788.15 443.74,821.75 " fill="none" id="C_0000852165071924393274-to-C_0001264991387172177823" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#181818" points="439.26,822.93,448.9024,824.9362,444.1469,821.8726,447.2105,817.1171,439.26,822.93" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[24bd270635577a9d46912bdf3b03b913]
+link C_0000852165071924393274 to C_0000373601393528651583--><g id="link_C_0000852165071924393274_C_0000373601393528651583"><path codeLine="210" d="M2282.1,608.65 C2137.81,633.96 1951.81,662.27 1785,674.28 C1771.2,675.27 1547.55,674.65 1536,682.28 C1495.37,709.14 1476.93,764.89 1468.87,802.26 " fill="none" id="C_0000852165071924393274-to-C_0000373601393528651583" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#181818" points="1467.66,807.09,1473.4013,799.0876,1468.6735,802.1938,1465.5673,797.466,1467.66,807.09" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[7ff2e7e95d7d2c27a14fdb104af853b7]
+reverse link C_0000478406039010818340 to C_0002108854544683905111--><g id="link_C_0000478406039010818340_C_0002108854544683905111"><path codeLine="211" d="M1838.81,1065.44 C1853.32,1082.3 1869.52,1101.13 1881.89,1115.5 " fill="none" id="C_0000478406039010818340-backto-C_0002108854544683905111" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="none" points="1830.05,1056.26,1830.9331,1063.4168,1837.879,1065.3543,1836.9959,1058.1975,1830.05,1056.26" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[513f13af92eab7ccef2b2cd072d2951c]
+reverse link C_0000790450299338889175 to C_0002108854544683905111--><g id="link_C_0000790450299338889175_C_0002108854544683905111"><path codeLine="212" d="M2235.56,891.43 C2195.33,937.76 2130.85,1006.64 2065,1054.87 C2029.17,1081.11 1983.99,1103.7 1950.29,1118.82 " fill="none" id="C_0000790450299338889175-backto-C_0002108854544683905111" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="none" points="2244.51,882.04,2237.5627,883.9725,2236.6745,891.1287,2243.6218,889.1962,2244.51,882.04" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[f7538f7e3d685dfdb4cdd08d2a370fa6]
+reverse link C_0000852165071924393274 to C_0000790450299338889175--><g id="link_C_0000852165071924393274_C_0000790450299338889175"><path codeLine="213" d="M2476.76,618.76 C2427.61,673.08 2355.33,752.96 2312.53,800.26 " fill="none" id="C_0000852165071924393274-backto-C_0000790450299338889175" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="none" points="2484.97,609.59,2477.9794,611.3596,2476.9242,618.4931,2483.9148,616.7235,2484.97,609.59" style="stroke:#181818;stroke-width:1.0;"/><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="2443" y="664.2544"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="31" x="2453" y="671.4738">_bulk</text></g><!--MD5=[9f6a2b8edf3a0ebc1eacad6235599051]
+link C_0001816566075137054504 to C_0000852165071924393274--><g id="link_C_0001816566075137054504_C_0000852165071924393274"><path codeLine="214" d="M2529,338.8 C2529,374.58 2529,444.21 2529,495.65 " fill="none" id="C_0001816566075137054504-to-C_0000852165071924393274" style="stroke:#181818;stroke-width:1.0;"/><ellipse cx="2529" cy="502.64" fill="#FFFFFF" rx="8" ry="8" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="2529" x2="2529" y1="494.64" y2="510.64"/><line style="stroke:#181818;stroke-width:1.0;" x1="2537" x2="2521" y1="502.64" y2="502.64"/></g><!--MD5=[0150378669ebd520adb9d1083f8ca4fd]
+link C_0001717483028495583254 to C_0001816566075137054504--><g id="link_C_0001717483028495583254_C_0001816566075137054504"><path codeLine="215" d="M2913.72,140.54 C2834.16,176.3 2682.74,244.34 2595.47,283.57 " fill="none" id="C_0001717483028495583254-to-C_0001816566075137054504" style="stroke:#181818;stroke-width:1.0;"/><ellipse cx="2589.2985" cy="286.7941" fill="#FFFFFF" rx="8" ry="8" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="2596.597" x2="2582" y1="283.5181" y2="290.07"/><line style="stroke:#181818;stroke-width:1.0;" x1="2592.5745" x2="2586.0226" y1="294.0926" y2="279.4955"/></g><!--MD5=[d151e847bd8f3321c59949a0bd99b3c2]
+link C_0000000828928632256298 to C_0001816566075137054504--><g id="link_C_0000000828928632256298_C_0001816566075137054504"><path codeLine="216" d="M2693.94,148.16 C2658.39,183.79 2600.33,241.97 2563.42,278.95 " fill="none" id="C_0000000828928632256298-to-C_0001816566075137054504" style="stroke:#181818;stroke-width:1.0;"/><ellipse cx="2558.893" cy="283.4893" fill="#FFFFFF" rx="8" ry="8" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="2564.5461" x2="2553.24" y1="277.8287" y2="289.15"/><line style="stroke:#181818;stroke-width:1.0;" x1="2564.5537" x2="2553.2324" y1="289.1424" y2="277.8363"/></g><!--MD5=[4056722aebca87c822b553306afe3ebb]
+link C_0001371918154553346107 to C_0001816566075137054504--><g id="link_C_0001371918154553346107_C_0001816566075137054504"><path codeLine="217" d="M2486.69,140.35 C2494.8,173.49 2509.75,234.67 2519.53,274.7 " fill="none" id="C_0001371918154553346107-to-C_0001816566075137054504" style="stroke:#181818;stroke-width:1.0;"/><ellipse cx="2521.4056" cy="281.4" fill="#FFFFFF" rx="8" ry="8" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="2519.5012" x2="2523.31" y1="273.63" y2="289.17"/><line style="stroke:#181818;stroke-width:1.0;" x1="2529.1756" x2="2513.6356" y1="279.4956" y2="283.3044"/></g><!--MD5=[383891af4840cb05f9269d9a46e6d430]
+link C_0001559011054215970555 to C_0001816566075137054504--><g id="link_C_0001559011054215970555_C_0001816566075137054504"><path codeLine="218" d="M2269.29,140.54 C2322.07,175.68 2421.7,242 2481.03,281.51 " fill="none" id="C_0001559011054215970555-to-C_0001816566075137054504" style="stroke:#181818;stroke-width:1.0;"/><ellipse cx="2486.4713" cy="285.7859" fill="#FFFFFF" rx="8" ry="8" style="stroke:#181818;stroke-width:1.0;"/><line style="stroke:#181818;stroke-width:1.0;" x1="2479.8125" x2="2493.13" y1="281.3518" y2="290.22"/><line style="stroke:#181818;stroke-width:1.0;" x1="2490.9053" x2="2482.0372" y1="279.1272" y2="292.4447"/></g><!--MD5=[893e4a07654ba6bf0fd563bb9a20ee3b]
+link C_0001425142858652026649 to C_0000790450299338889175--><g id="link_C_0001425142858652026649_C_0000790450299338889175"><path codeLine="219" d="M1876.58,608.63 C2013.3,631.15 2147.44,654.06 2154,658.28 C2204.61,690.82 2239.65,752.38 2259.03,794.65 " fill="none" id="C_0001425142858652026649-to-C_0000790450299338889175" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#181818" points="2261.43,798.97,2261.3729,789.1213,2259.3728,794.4128,2254.0813,792.4128,2261.43,798.97" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[f82b982b3bd4e5916816a0b1777d496f]
+link C_0001425142858652026649 to C_0001264991387172177823--><g id="link_C_0001425142858652026649_C_0001264991387172177823"><path codeLine="220" d="M1373.49,608.67 C1099.66,671.23 631.71,778.13 444.21,820.97 " fill="none" id="C_0001425142858652026649-to-C_0001264991387172177823" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#181818" points="439.47,822.28,449.1353,824.1725,444.3441,821.1651,447.3515,816.3739,439.47,822.28" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[1383abeca9727cbe872378434e5d65d0]
+link C_0001425142858652026649 to C_0000373601393528651583--><g id="link_C_0001425142858652026649_C_0000373601393528651583"><path codeLine="221" d="M1561.68,608.59 C1538.17,663.6 1499.98,752.98 1478.66,802.87 " fill="none" id="C_0001425142858652026649-to-C_0000373601393528651583" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#181818" points="1476.4,807.17,1483.6219,800.4734,1478.3696,802.5743,1476.2687,797.322,1476.4,807.17" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[60ea1f0df0ddfcea2b773115829b95ce]
+link C_0000859028499174424449 to C_0001264991387172177823--><g id="link_C_0000859028499174424449_C_0001264991387172177823"><path codeLine="222" d="M708.5,624.75 C628,674.79 517.49,743.49 443.33,789.59 " fill="none" id="C_0000859028499174424449-to-C_0001264991387172177823" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#181818" points="439.49,792.59,449.2473,791.2505,443.7404,789.9567,445.0341,784.4498,439.49,792.59" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[ea3c98464dec4f34e84d17550e3faa36]
+reverse link C_0000859028499174424449 to C_0001264991387172177823--><g id="link_C_0000859028499174424449_C_0001264991387172177823"><path codeLine="224" d="M727.69,633.21 C709.8,647.48 690.65,661.86 672,674.28 C595.79,725.02 502.39,773.21 438.35,804.31 " fill="none" id="C_0000859028499174424449-backto-C_0001264991387172177823" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="none" points="737.36,624.6,730.1785,625.2531,728.0193,632.1333,735.2007,631.4802,737.36,624.6" style="stroke:#181818;stroke-width:1.0;"/><rect fill="none" height="6" style="stroke:#C82930;stroke-width:1.0;" width="6" x="695" y="664.2544"/><text fill="#000000" font-family="sans-serif" font-size="13" lengthAdjust="spacing" textLength="71" x="705" y="671.4738">_subs_state</text></g><!--MD5=[ccdfee19d3b26eb20db30893c220f2ac]
+link C_0000859028499174424449 to C_0000790450299338889175--><g id="link_C_0000859028499174424449_C_0000790450299338889175"><path codeLine="223" d="M1027.64,624.74 C1066.73,634.15 1107.35,642.58 1146,648.28 C1342.68,677.28 1850.78,621.27 2040,682.28 C2112.7,705.72 2184.07,758.24 2229.18,796.15 " fill="none" id="C_0000859028499174424449-to-C_0000790450299338889175" style="stroke:#181818;stroke-width:1.0;stroke-dasharray:7.0,7.0;"/><polygon fill="#181818" points="2232.73,800,2228.4284,791.1402,2228.9077,796.7767,2223.2711,797.2559,2232.73,800" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[212c34c6144206dba7124c2f1abe6e87]
+@startuml
+' /home/jn/codes/cpp/otus23/bulk/src/bulk/provider/../../cmd/command.hpp:5
+package [cmd] as C_0000998616250274975378 {
+' /home/jn/codes/cpp/otus23/bulk/src/bulk/provider/../../cmd/command.hpp:7
+class "Command" as C_0002108854544683905111
+class C_0002108854544683905111 {
+__
+}
+' /home/jn/codes/cpp/otus23/bulk/src/bulk/provider/../../cmd/token.hpp:13
+class "TokenBlockBegin" as C_0002108854544683905329
+class C_0002108854544683905329 {
+__
+}
+' /home/jn/codes/cpp/otus23/bulk/src/bulk/provider/../../cmd/token.hpp:14
+class "TokenBlockEnd" as C_0000931216602795323068
+class C_0000931216602795323068 {
+__
+}
+' /home/jn/codes/cpp/otus23/bulk/src/bulk/provider/../../cmd/token.hpp:15
+class "TokenCommand" as C_0000478406039010818340
+class C_0000478406039010818340 {
+__
+' /home/jn/codes/cpp/otus23/bulk/src/bulk/provider/../../cmd/token.hpp:16
++value : Command
+}
+' /home/jn/codes/cpp/otus23/bulk/src/bulk/provider/../../cmd/token.hpp:18
+class "TokenUnknown" as C_0000672897217801684765
+class C_0000672897217801684765 {
+__
+}
+' /home/jn/codes/cpp/otus23/bulk/src/bulk/provider/../../cmd/token.hpp:19
+class "TokenEnd" as C_0001328753052865249363
+class C_0001328753052865249363 {
+__
+}
+' /home/jn/codes/cpp/otus23/bulk/src/logs/../cmd/token_event.hpp:7
+class "TokenEvent" as C_0000373601393528651583
+class C_0000373601393528651583 {
+__
+' /home/jn/codes/cpp/otus23/bulk/src/logs/../cmd/token_event.hpp:9
++index : size_t
+}
+' /home/jn/codes/cpp/otus23/bulk/src/cmd/provider/istream_parser.hpp:9
+package [provider] as C_0001459190657943733552 {
+' /home/jn/codes/cpp/otus23/bulk/src/cmd/provider/istream_parser.hpp:19
+class "InputStreamParser<core::PublisherMixin<TokenEvent>>" as C_0000749092891808018654
+class C_0000749092891808018654 {
+' /home/jn/codes/cpp/otus23/bulk/src/cmd/provider/istream_parser.hpp:27
++InputStreamParser(const InputStreamParser &) = deleted : void
+' /home/jn/codes/cpp/otus23/bulk/src/cmd/provider/istream_parser.hpp:29
++~InputStreamParser() : void
+..
+' /home/jn/codes/cpp/otus23/bulk/src/cmd/provider/istream_parser.hpp:28
++operator=(const InputStreamParser &) = deleted : InputStreamParser &
+..
+' /home/jn/codes/cpp/otus23/bulk/src/cmd/provider/istream_parser.hpp:22
+{static} +instance() : InputStreamParser &
+' /home/jn/codes/cpp/otus23/bulk/src/cmd/provider/istream_parser.hpp:31
++run() : void
+__
+}
+}
+}
+' /home/jn/codes/cpp/otus23/bulk/src/logs/../core/subscriber.hpp:6
+package [core] as C_0001135303388636126337 {
+' /home/jn/codes/cpp/otus23/bulk/src/logs/../core/subscriber.hpp:12
+enum "SubscriptionStatus" as C_0001264991387172177823
+enum C_0001264991387172177823 {
+READY
+SUSPEND
+CANCEL
+}
+' /home/jn/codes/cpp/otus23/bulk/src/logs/../core/subscriber.hpp:19
+abstract "SubscriberBase<EventType>" as C_0001486689738813699977
+abstract C_0001486689738813699977 {
+' /home/jn/codes/cpp/otus23/bulk/src/logs/../core/subscriber.hpp:20
++~SubscriberBase() = default : void
+..
+' /home/jn/codes/cpp/otus23/bulk/src/logs/../core/subscriber.hpp:55
++_subscriberID() : std::string
+' /home/jn/codes/cpp/otus23/bulk/src/logs/../core/subscriber.hpp:47
++getSubscriberName() const noexcept : std::string
+' /home/jn/codes/cpp/otus23/bulk/src/logs/../core/subscriber.hpp:39
++getSubscriptionStatus() noexcept : SubscriptionStatus
+' /home/jn/codes/cpp/otus23/bulk/src/logs/../core/subscriber.hpp:30
+{abstract} +onEvent(const EventType & event) = 0 : SubscriptionStatus
+__
+}
+' /home/jn/codes/cpp/otus23/bulk/src/cmd/provider/../../core/publisher.hpp:11
+class "PublisherMixin<EventType>" as C_0000790719520225289803
+class C_0000790719520225289803 {
+' /home/jn/codes/cpp/otus23/bulk/src/cmd/provider/../../core/publisher.hpp:35
+#PublisherMixin() : void
+' /home/jn/codes/cpp/otus23/bulk/src/cmd/provider/../../core/publisher.hpp:18
++~PublisherMixin() = default : void
+..
+' /home/jn/codes/cpp/otus23/bulk/src/cmd/provider/../../core/publisher.hpp:32
++clear() : void
+' /home/jn/codes/cpp/otus23/bulk/src/cmd/provider/../../core/publisher.hpp:37
+#notify(const EventType & event) : void
+' /home/jn/codes/cpp/otus23/bulk/src/cmd/provider/../../core/publisher.hpp:20
++subscribe(const SPtrSubscriber & subscriber, bool own) : void
+' /home/jn/codes/cpp/otus23/bulk/src/cmd/provider/../../core/publisher.hpp:25
++subscribe(SPtrSubscriber && subscriber) : void
+' /home/jn/codes/cpp/otus23/bulk/src/cmd/provider/../../core/publisher.hpp:30
++unsubscribe(const SPtrSubscriber & subscriber) : void
+__
+}
+}
+' /home/jn/codes/cpp/otus23/bulk/src/logs/../bulk/bulk_event.hpp:10
+package [bulk] as C_0000846381584170450190 {
+' /home/jn/codes/cpp/otus23/bulk/src/logs/../bulk/bulk_event.hpp:12
+class "BulkEvent" as C_0000790450299338889175
+class C_0000790450299338889175 {
+__
+' /home/jn/codes/cpp/otus23/bulk/src/logs/../bulk/bulk_event.hpp:14
++commands : std::vector<cmd::Command>
+' /home/jn/codes/cpp/otus23/bulk/src/logs/../bulk/bulk_event.hpp:13
++time_stamp : std::chrono::system_clock::time_point
+}
+' /home/jn/codes/cpp/otus23/bulk/src/bulk/provider/bulk_translator.hpp:13
+package [provider] as C_0000788986254373503399 {
+' /home/jn/codes/cpp/otus23/bulk/src/bulk/provider/bulk_translator.hpp:18
+class "BulkTranslator<core::SubscriberBase<cmd::TokenEvent>,core::PublisherMixin<BulkEvent>,std::enable_shared_from_this<BulkTranslator>>" as C_0000852165071924393274
+class C_0000852165071924393274 {
+' /home/jn/codes/cpp/otus23/bulk/src/bulk/provider/bulk_translator.hpp:22
+{static} +create(size_t BULK_SIZE) : std::shared_ptr<BulkTranslator>
+' /home/jn/codes/cpp/otus23/bulk/src/bulk/provider/bulk_translator.hpp:26
++getSubscriptionStatus() noexcept : core::SubscriptionStatus
+' /home/jn/codes/cpp/otus23/bulk/src/bulk/provider/bulk_translator.hpp:32
++onEvent(const cmd::TokenEvent & event) : core::SubscriptionStatus
+__
+}
+' /home/jn/codes/cpp/otus23/bulk/src/bulk/provider/bulk_translator.hpp:102
+class "BulkTranslator::State" as C_0001816566075137054504
+class C_0001816566075137054504 {
+__
+}
+' /home/jn/codes/cpp/otus23/bulk/src/bulk/provider/bulk_translator.hpp:103
+class "BulkTranslator::State::Base" as C_0001717483028495583254
+class C_0001717483028495583254 {
+__
+}
+' /home/jn/codes/cpp/otus23/bulk/src/bulk/provider/bulk_translator.hpp:104
+class "BulkTranslator::State::Block" as C_0000000828928632256298
+class C_0000000828928632256298 {
+__
+' /home/jn/codes/cpp/otus23/bulk/src/bulk/provider/bulk_translator.hpp:105
++level : size_t
+}
+' /home/jn/codes/cpp/otus23/bulk/src/bulk/provider/bulk_translator.hpp:107
+class "BulkTranslator::State::Failed" as C_0001371918154553346107
+class C_0001371918154553346107 {
+__
+}
+' /home/jn/codes/cpp/otus23/bulk/src/bulk/provider/bulk_translator.hpp:108
+class "BulkTranslator::State::Finish" as C_0001559011054215970555
+class C_0001559011054215970555 {
+__
+}
+}
+}
+' /home/jn/codes/cpp/otus23/bulk/src/logs/console_writer.hpp:10
+package [logs] as C_0001744366389740023450 {
+' /home/jn/codes/cpp/otus23/bulk/src/logs/console_writer.hpp:15
+class "ConsoleWriter<core::SubscriberBase<cmd::TokenEvent>,core::SubscriberBase<bulk::BulkEvent>,std::enable_shared_from_this<ConsoleWriter>>" as C_0001425142858652026649
+class C_0001425142858652026649 {
+' /home/jn/codes/cpp/otus23/bulk/src/logs/console_writer.hpp:19
+{static} +create() : std::shared_ptr<ConsoleWriter>
+' /home/jn/codes/cpp/otus23/bulk/src/logs/console_writer.hpp:23
++onEvent(const bulk::BulkEvent & event) : core::SubscriptionStatus
+' /home/jn/codes/cpp/otus23/bulk/src/logs/console_writer.hpp:28
++onEvent(const cmd::TokenEvent & event) : core::SubscriptionStatus
+__
+}
+' /home/jn/codes/cpp/otus23/bulk/src/logs/file_writer.hpp:17
+class "FileWriter<core::SubscriberBase<bulk::BulkEvent>,std::enable_shared_from_this<FileWriter>>" as C_0000859028499174424449
+class C_0000859028499174424449 {
+' /home/jn/codes/cpp/otus23/bulk/src/logs/file_writer.hpp:19
+{static} +create(std::string_view output_directory, std::string_view name = "") : std::shared_ptr<FileWriter>
+' /home/jn/codes/cpp/otus23/bulk/src/logs/file_writer.hpp:42
++getSubscriberName() const noexcept : std::string
+' /home/jn/codes/cpp/otus23/bulk/src/logs/file_writer.hpp:24
++getSubscriptionStatus() noexcept : core::SubscriptionStatus
+' /home/jn/codes/cpp/otus23/bulk/src/logs/file_writer.hpp:27
++onEvent(const bulk::BulkEvent & event) : core::SubscriptionStatus
+' /home/jn/codes/cpp/otus23/bulk/src/logs/file_writer.hpp:25
++setSubscriptionStatus(core::SubscriptionStatus state) noexcept : void
+__
+}
+}
+C_0000373601393528651583 o- - C_0002108854544683905329 : +token
+C_0000373601393528651583 o- - C_0000931216602795323068 : +token
+C_0000373601393528651583 o- - C_0000478406039010818340 : +token
+C_0000373601393528651583 o- - C_0001328753052865249363 : +token
+C_0000373601393528651583 o- - C_0000672897217801684765 : +token
+C_0000749092891808018654 -|> C_0000790719520225289803
+C_0000749092891808018654 ..> C_0002108854544683905329
+C_0000749092891808018654 ..> C_0000931216602795323068
+C_0000749092891808018654 ..> C_0000478406039010818340
+C_0000749092891808018654 ..> C_0001328753052865249363
+C_0000749092891808018654 ..> C_0000672897217801684765
+C_0001486689738813699977 ..> C_0001264991387172177823
+C_0000790719520225289803 ..> C_0001486689738813699977
+C_0000790719520225289803 o- - C_0001486689738813699977 : -_subs
+C_0001486689738813699977 <|- C_0001425142858652026649
+C_0001486689738813699977 <|- C_0000852165071924393274
+C_0000790719520225289803 <|- C_0000852165071924393274
+C_0001486689738813699977 <|- C_0000859028499174424449
+C_0000852165071924393274 ..> C_0001264991387172177823
+C_0000852165071924393274 ..> C_0000373601393528651583
+C_0000478406039010818340 o- - C_0002108854544683905111
+C_0000790450299338889175 o- - C_0002108854544683905111
+C_0000852165071924393274 o- - C_0000790450299338889175 : -_bulk
+C_0001816566075137054504 - -+ C_0000852165071924393274
+C_0001717483028495583254 - -+ C_0001816566075137054504
+C_0000000828928632256298 - -+ C_0001816566075137054504
+C_0001371918154553346107 - -+ C_0001816566075137054504
+C_0001559011054215970555 - -+ C_0001816566075137054504
+C_0001425142858652026649 ..> C_0000790450299338889175
+C_0001425142858652026649 ..> C_0001264991387172177823
+C_0001425142858652026649 ..> C_0000373601393528651583
+C_0000859028499174424449 ..> C_0001264991387172177823
+C_0000859028499174424449 ..> C_0000790450299338889175
+C_0000859028499174424449 o- - C_0001264991387172177823 : -_subs_state
+
+'Generated with clang-uml, version 0.3.8
+'LLVM version clang version 16.0.6
+@enduml
+
+@startuml
+package [cmd] as C_0000998616250274975378 {
+class "Command" as C_0002108854544683905111
+class C_0002108854544683905111 {
+__
+}
+class "TokenBlockBegin" as C_0002108854544683905329
+class C_0002108854544683905329 {
+__
+}
+class "TokenBlockEnd" as C_0000931216602795323068
+class C_0000931216602795323068 {
+__
+}
+class "TokenCommand" as C_0000478406039010818340
+class C_0000478406039010818340 {
+__
++value : Command
+}
+class "TokenUnknown" as C_0000672897217801684765
+class C_0000672897217801684765 {
+__
+}
+class "TokenEnd" as C_0001328753052865249363
+class C_0001328753052865249363 {
+__
+}
+class "TokenEvent" as C_0000373601393528651583
+class C_0000373601393528651583 {
+__
++index : size_t
+}
+package [provider] as C_0001459190657943733552 {
+class "InputStreamParser<core::PublisherMixin<TokenEvent>>" as C_0000749092891808018654
+class C_0000749092891808018654 {
++InputStreamParser(const InputStreamParser &) = deleted : void
++~InputStreamParser() : void
+..
++operator=(const InputStreamParser &) = deleted : InputStreamParser &
+..
+{static} +instance() : InputStreamParser &
++run() : void
+__
+}
+}
+}
+package [core] as C_0001135303388636126337 {
+enum "SubscriptionStatus" as C_0001264991387172177823
+enum C_0001264991387172177823 {
+READY
+SUSPEND
+CANCEL
+}
+abstract "SubscriberBase<EventType>" as C_0001486689738813699977
+abstract C_0001486689738813699977 {
++~SubscriberBase() = default : void
+..
++_subscriberID() : std::string
++getSubscriberName() const noexcept : std::string
++getSubscriptionStatus() noexcept : SubscriptionStatus
+{abstract} +onEvent(const EventType & event) = 0 : SubscriptionStatus
+__
+}
+class "PublisherMixin<EventType>" as C_0000790719520225289803
+class C_0000790719520225289803 {
+#PublisherMixin() : void
++~PublisherMixin() = default : void
+..
++clear() : void
+#notify(const EventType & event) : void
++subscribe(const SPtrSubscriber & subscriber, bool own) : void
++subscribe(SPtrSubscriber && subscriber) : void
++unsubscribe(const SPtrSubscriber & subscriber) : void
+__
+}
+}
+package [bulk] as C_0000846381584170450190 {
+class "BulkEvent" as C_0000790450299338889175
+class C_0000790450299338889175 {
+__
++commands : std::vector<cmd::Command>
++time_stamp : std::chrono::system_clock::time_point
+}
+package [provider] as C_0000788986254373503399 {
+class "BulkTranslator<core::SubscriberBase<cmd::TokenEvent>,core::PublisherMixin<BulkEvent>,std::enable_shared_from_this<BulkTranslator>>" as C_0000852165071924393274
+class C_0000852165071924393274 {
+{static} +create(size_t BULK_SIZE) : std::shared_ptr<BulkTranslator>
++getSubscriptionStatus() noexcept : core::SubscriptionStatus
++onEvent(const cmd::TokenEvent & event) : core::SubscriptionStatus
+__
+}
+class "BulkTranslator::State" as C_0001816566075137054504
+class C_0001816566075137054504 {
+__
+}
+class "BulkTranslator::State::Base" as C_0001717483028495583254
+class C_0001717483028495583254 {
+__
+}
+class "BulkTranslator::State::Block" as C_0000000828928632256298
+class C_0000000828928632256298 {
+__
++level : size_t
+}
+class "BulkTranslator::State::Failed" as C_0001371918154553346107
+class C_0001371918154553346107 {
+__
+}
+class "BulkTranslator::State::Finish" as C_0001559011054215970555
+class C_0001559011054215970555 {
+__
+}
+}
+}
+package [logs] as C_0001744366389740023450 {
+class "ConsoleWriter<core::SubscriberBase<cmd::TokenEvent>,core::SubscriberBase<bulk::BulkEvent>,std::enable_shared_from_this<ConsoleWriter>>" as C_0001425142858652026649
+class C_0001425142858652026649 {
+{static} +create() : std::shared_ptr<ConsoleWriter>
++onEvent(const bulk::BulkEvent & event) : core::SubscriptionStatus
++onEvent(const cmd::TokenEvent & event) : core::SubscriptionStatus
+__
+}
+class "FileWriter<core::SubscriberBase<bulk::BulkEvent>,std::enable_shared_from_this<FileWriter>>" as C_0000859028499174424449
+class C_0000859028499174424449 {
+{static} +create(std::string_view output_directory, std::string_view name = "") : std::shared_ptr<FileWriter>
++getSubscriberName() const noexcept : std::string
++getSubscriptionStatus() noexcept : core::SubscriptionStatus
++onEvent(const bulk::BulkEvent & event) : core::SubscriptionStatus
++setSubscriptionStatus(core::SubscriptionStatus state) noexcept : void
+__
+}
+}
+C_0000373601393528651583 o- - C_0002108854544683905329 : +token
+C_0000373601393528651583 o- - C_0000931216602795323068 : +token
+C_0000373601393528651583 o- - C_0000478406039010818340 : +token
+C_0000373601393528651583 o- - C_0001328753052865249363 : +token
+C_0000373601393528651583 o- - C_0000672897217801684765 : +token
+C_0000749092891808018654 -|> C_0000790719520225289803
+C_0000749092891808018654 ..> C_0002108854544683905329
+C_0000749092891808018654 ..> C_0000931216602795323068
+C_0000749092891808018654 ..> C_0000478406039010818340
+C_0000749092891808018654 ..> C_0001328753052865249363
+C_0000749092891808018654 ..> C_0000672897217801684765
+C_0001486689738813699977 ..> C_0001264991387172177823
+C_0000790719520225289803 ..> C_0001486689738813699977
+C_0000790719520225289803 o- - C_0001486689738813699977 : -_subs
+C_0001486689738813699977 <|- C_0001425142858652026649
+C_0001486689738813699977 <|- C_0000852165071924393274
+C_0000790719520225289803 <|- C_0000852165071924393274
+C_0001486689738813699977 <|- C_0000859028499174424449
+C_0000852165071924393274 ..> C_0001264991387172177823
+C_0000852165071924393274 ..> C_0000373601393528651583
+C_0000478406039010818340 o- - C_0002108854544683905111
+C_0000790450299338889175 o- - C_0002108854544683905111
+C_0000852165071924393274 o- - C_0000790450299338889175 : -_bulk
+C_0001816566075137054504 - -+ C_0000852165071924393274
+C_0001717483028495583254 - -+ C_0001816566075137054504
+C_0000000828928632256298 - -+ C_0001816566075137054504
+C_0001371918154553346107 - -+ C_0001816566075137054504
+C_0001559011054215970555 - -+ C_0001816566075137054504
+C_0001425142858652026649 ..> C_0000790450299338889175
+C_0001425142858652026649 ..> C_0001264991387172177823
+C_0001425142858652026649 ..> C_0000373601393528651583
+C_0000859028499174424449 ..> C_0001264991387172177823
+C_0000859028499174424449 ..> C_0000790450299338889175
+C_0000859028499174424449 o- - C_0001264991387172177823 : -_subs_state
+
+@enduml
+
+PlantUML version 1.2022.7(Mon Aug 22 20:01:30 MSK 2022)
+(GPL source distribution)
+Java Runtime: OpenJDK Runtime Environment
+JVM: OpenJDK 64-Bit Server VM
+Default Encoding: UTF-8
+Language: ru
+Country: RU
+--></g></svg>

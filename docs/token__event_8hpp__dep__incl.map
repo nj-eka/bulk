@@ -1,0 +1,13 @@
+<map id="src/cmd/token_event.hpp" name="src/cmd/token_event.hpp">
+<area shape="rect" id="Node000001" title=" " alt="" coords="175,5,341,36"/>
+<area shape="rect" id="Node000002" href="$bulk__translator_8hpp.html" title=" " alt="" coords="5,84,151,135"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="216,45,131,86,128,81,213,40"/>
+<area shape="rect" id="Node000004" href="$console__parser_8hpp.html" title=" " alt="" coords="174,84,342,135"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="261,51,261,84,255,84,255,51"/>
+<area shape="rect" id="Node000005" href="$ostream__writer_8hpp.html" title=" " alt="" coords="366,94,548,125"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="306,40,424,91,422,96,304,45"/>
+<area shape="rect" id="Node000003" href="$main_8cpp.html" title=" " alt="" coords="210,183,306,213"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="144,139,229,180,227,185,141,144"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="261,149,261,182,255,182,255,149"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="411,133,293,184,291,180,409,129"/>
+</map>

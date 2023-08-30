@@ -1,0 +1,18 @@
+<map id="logs::ConsoleWriter" name="logs::ConsoleWriter">
+<area shape="rect" id="Node000001" title=" " alt="" coords="205,1148,384,1425"/>
+<area shape="rect" id="Node000002" href="$structcore_1_1SubscriberBase.html" title=" " alt="" coords="5,736,184,1099"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="193,1093,222,1147,218,1150,188,1096"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="206,156,277,237"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="208,219,159,255,136,279,119,307,98,356,83,407,72,460,65,514,60,620,65,719,60,719,55,620,60,513,67,459,78,406,93,354,114,304,132,276,155,251,205,215"/>
+<area shape="rect" id="Node000005" href="$structcore_1_1SubscriberBase.html" title=" " alt="" coords="153,305,329,668"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="244,237,244,288,239,288,239,237"/>
+<area shape="rect" id="Node000006" href="$structcore_1_1SubscriberBase.html" title=" " alt="" coords="208,736,381,1099"/>
+<area shape="poly" id="edge7_Node000006_Node000003" title=" " alt="" coords="278,224,314,259,344,304,367,359,381,407,389,451,393,493,392,581,395,692,394,722,388,752,383,752,389,722,389,692,387,581,387,493,384,451,376,408,362,361,339,307,310,263,275,227"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="183,5,300,107"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="244,121,244,156,239,156,239,121"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="150,659,137,693,124,737,119,735,132,691,145,657"/>
+<area shape="poly" id="edge8_Node000006_Node000005" title=" " alt="" coords="268,682,275,736,270,736,263,682"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="297,1113,297,1148,292,1148,292,1113"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="406,867,586,968"/>
+<area shape="poly" id="edge9_Node000001_Node000007" title=" " alt="" coords="465,981,372,1149,368,1147,460,979"/>
+</map>

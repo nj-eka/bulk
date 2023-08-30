@@ -1,0 +1,9 @@
+<map id="bulk::provider::BulkTranslator::onEvent" name="bulk::provider::BulkTranslator::onEvent">
+<area shape="rect" id="Node000001" title="Main Subscription Method." alt="" coords="5,80,196,131"/>
+<area shape="rect" id="Node000002" href="$classcore_1_1PublisherMixin.html#a01f5e05834197f4dfab5b323116940e1" title=" " alt="" coords="269,5,409,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="183,77,253,55,255,60,184,82"/>
+<area shape="rect" id="Node000003" href="$classbulk_1_1provider_1_1BulkTranslator.html#a29f69e9d7f98712ab854468395d9f985" title="Get Subscriber current State object." alt="" coords="244,80,434,131"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="196,103,229,103,229,108,196,108"/>
+<area shape="rect" id="Node000004" href="$classcore_1_1PublisherMixin.html#a27f123fa8c1a5dfd358bb3a3eed8f5a0" title=" " alt="" coords="267,155,411,205"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="184,129,253,150,252,156,183,134"/>
+</map>

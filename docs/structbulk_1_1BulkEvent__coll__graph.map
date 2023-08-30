@@ -1,0 +1,13 @@
+<map id="bulk::BulkEvent" name="bulk::BulkEvent">
+<area shape="rect" id="Node000001" title=" " alt="" coords="19,473,221,575"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="42,324,198,405"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="123,405,123,456,117,456,117,405"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="29,175,99,256"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="70,255,80,299,84,308,79,310,75,301,64,256"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="5,5,123,107"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="67,121,67,175,61,175,61,121"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="123,175,229,256"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="158,270,137,325,132,323,153,268"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="165,15,187,97"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="179,96,179,158,173,158,173,96"/>
+</map>

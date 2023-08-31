@@ -71,6 +71,17 @@ TEST(parser, subscribe_shared_with_move_semantic) {
   ASSERT_TRUE(parser.hasSubscription());
 }
 
+TEST(parser, unsubscribe) {
+  auto &parser = cmd::provider::ConsoleParser::instance();
+  ASSERT_FALSE(parser.hasSubscription());
+  utils::defer d0{[&] { parser.clear(); }};
+  auto writer = logs::OutputStreamWriter::create(std::cout);
+  parser.subscribe(writer, true);
+  ASSERT_TRUE(parser.hasSubscription());
+  parser.unsubscribe(writer);
+  ASSERT_FALSE(parser.hasSubscription());
+}
+
 TEST(parser, tokens) {
   std::stringstream in, out, eta;
   const std::unique_ptr<io::istream2istream_redirect> in_guard = std::make_unique<io::istream2istream_redirect>(in);

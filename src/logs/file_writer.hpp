@@ -44,7 +44,7 @@ class FileWriter final : public core::SubscriberBase<bulk::BulkEvent>, public st
   size_t _bulk_counter = 0;
   core::SubscriptionStatus _subs_state;
 
-  FileWriter(std::string_view local_name = "", std::string_view output_directory = "")
+  FileWriter(std::string_view output_directory, std::string_view local_name)
       : _output_dir{std::filesystem::canonical(output_directory)},
         _local_name{local_name.size() ? local_name : std::to_string(_instanceNum())},
         _name{std::format("{}.{}", _output_dir.c_str(), _local_name)},

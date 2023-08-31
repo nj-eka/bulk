@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['filewriter_0',['FileWriter',['../classlogs_1_1FileWriter.html#a263f5f0a5c43dd1e5e2f00fc49fc9c8b',1,'logs::FileWriter']]]
+  ['filewriter_0',['FileWriter',['../classlogs_1_1FileWriter.html#aa158ac32d08bbd47af1e609d451519cd',1,'logs::FileWriter']]]
 ];

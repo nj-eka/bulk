@@ -58,46 +58,46 @@ var sectionId = 'dynsection-1';
 <g id="Node000001" class="node">
 <title>Node1</title>
 <g id="a_Node000001"><a xlink:title=" ">
-<polygon fill="#999999" stroke="none" points="167.15,-423 4.15,-423 4.15,0 167.15,0 167.15,-423"/>
+<polygon fill="#999999" stroke="none" points="163.65,-423 7.65,-423 7.65,0 163.65,0 163.65,-423"/>
 <text text-anchor="start" x="53.03" y="-409.5" font-family="Helvetica,sans-Serif" font-size="10.00">logs::FileWriter</text>
-<text text-anchor="start" x="9.65" y="-390.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45;</text>
-<text text-anchor="start" x="18.15" y="-390.5" font-family="Helvetica,sans-Serif" font-size="10.00">fs::path const _output_dir</text>
-<text text-anchor="start" x="9.65" y="-371.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45;</text>
-<text text-anchor="start" x="18.15" y="-371.5" font-family="Helvetica,sans-Serif" font-size="10.00">size_t _bulk_counter</text>
-<text text-anchor="start" x="9.65" y="-352.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45;</text>
-<text text-anchor="start" x="18.15" y="-352.5" font-family="Helvetica,sans-Serif" font-size="10.00">core::SubscriptionStatus</text>
-<text text-anchor="start" x="18.15" y="-337.5" font-family="Helvetica,sans-Serif" font-size="10.00"> _subs_state</text>
-<text text-anchor="start" x="8.15" y="-318.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="18.15" y="-318.5" font-family="Helvetica,sans-Serif" font-size="10.00">core::SubscriptionStatus</text>
-<text text-anchor="start" x="18.15" y="-303.5" font-family="Helvetica,sans-Serif" font-size="10.00"> getSubscriptionStatus</text>
-<text text-anchor="start" x="18.15" y="-288.5" font-family="Helvetica,sans-Serif" font-size="10.00">() noexcept override</text>
-<text text-anchor="start" x="8.15" y="-269.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="18.15" y="-269.5" font-family="Helvetica,sans-Serif" font-size="10.00">void setSubscriptionStatus</text>
-<text text-anchor="start" x="18.15" y="-254.5" font-family="Helvetica,sans-Serif" font-size="10.00">(core::SubscriptionStatus</text>
-<text text-anchor="start" x="18.15" y="-239.5" font-family="Helvetica,sans-Serif" font-size="10.00"> state) noexcept</text>
-<text text-anchor="start" x="8.15" y="-220.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="18.15" y="-220.5" font-family="Helvetica,sans-Serif" font-size="10.00">core::SubscriptionStatus</text>
-<text text-anchor="start" x="18.15" y="-205.5" font-family="Helvetica,sans-Serif" font-size="10.00"> onEvent(bulk::BulkEvent</text>
-<text text-anchor="start" x="18.15" y="-190.5" font-family="Helvetica,sans-Serif" font-size="10.00"> const &amp;event) override</text>
-<text text-anchor="start" x="8.15" y="-171.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
-<text text-anchor="start" x="18.15" y="-171.5" font-family="Helvetica,sans-Serif" font-size="10.00">static auto create</text>
-<text text-anchor="start" x="18.15" y="-156.5" font-family="Helvetica,sans-Serif" font-size="10.00">(std::string_view output</text>
-<text text-anchor="start" x="18.15" y="-141.5" font-family="Helvetica,sans-Serif" font-size="10.00">_directory, std::string</text>
-<text text-anchor="start" x="18.15" y="-126.5" font-family="Helvetica,sans-Serif" font-size="10.00">_view name=&quot;&quot;)</text>
-<text text-anchor="start" x="9.65" y="-107.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45;</text>
-<text text-anchor="start" x="18.15" y="-107.5" font-family="Helvetica,sans-Serif" font-size="10.00">FileWriter(std::string</text>
-<text text-anchor="start" x="18.15" y="-92.5" font-family="Helvetica,sans-Serif" font-size="10.00">_view local_name=&quot;&quot;, std</text>
-<text text-anchor="start" x="18.15" y="-77.5" font-family="Helvetica,sans-Serif" font-size="10.00">::string_view output_directory=&quot;&quot;)</text>
-<text text-anchor="start" x="9.65" y="-58.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45;</text>
-<text text-anchor="start" x="18.15" y="-58.5" font-family="Helvetica,sans-Serif" font-size="10.00">std::string getSubscriber</text>
-<text text-anchor="start" x="18.15" y="-43.5" font-family="Helvetica,sans-Serif" font-size="10.00">Name() const noexcept override</text>
-<text text-anchor="start" x="9.65" y="-24.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45;</text>
-<text text-anchor="start" x="18.15" y="-24.5" font-family="Helvetica,sans-Serif" font-size="10.00">size_t _instanceNum</text>
-<text text-anchor="start" x="18.15" y="-9.5" font-family="Helvetica,sans-Serif" font-size="10.00">() const</text>
-<polygon fill="#666666" stroke="#666666" points="4.15,-402 4.15,-402 167.15,-402 167.15,-402 4.15,-402"/>
-<polygon fill="#666666" stroke="#666666" points="4.15,-330 4.15,-330 16.15,-330 16.15,-330 4.15,-330"/>
-<polygon fill="#666666" stroke="#666666" points="16.15,-330 16.15,-330 167.15,-330 167.15,-330 16.15,-330"/>
-<polygon fill="none" stroke="#666666" points="4.15,0 4.15,-423 167.15,-423 167.15,0 4.15,0"/>
+<text text-anchor="start" x="13.15" y="-390.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45;</text>
+<text text-anchor="start" x="21.65" y="-390.5" font-family="Helvetica,sans-Serif" font-size="10.00">fs::path const _output_dir</text>
+<text text-anchor="start" x="13.15" y="-371.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45;</text>
+<text text-anchor="start" x="21.65" y="-371.5" font-family="Helvetica,sans-Serif" font-size="10.00">size_t _bulk_counter</text>
+<text text-anchor="start" x="13.15" y="-352.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45;</text>
+<text text-anchor="start" x="21.65" y="-352.5" font-family="Helvetica,sans-Serif" font-size="10.00">core::SubscriptionStatus</text>
+<text text-anchor="start" x="21.65" y="-337.5" font-family="Helvetica,sans-Serif" font-size="10.00"> _subs_state</text>
+<text text-anchor="start" x="11.65" y="-318.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="21.65" y="-318.5" font-family="Helvetica,sans-Serif" font-size="10.00">core::SubscriptionStatus</text>
+<text text-anchor="start" x="21.65" y="-303.5" font-family="Helvetica,sans-Serif" font-size="10.00"> getSubscriptionStatus</text>
+<text text-anchor="start" x="21.65" y="-288.5" font-family="Helvetica,sans-Serif" font-size="10.00">() noexcept override</text>
+<text text-anchor="start" x="11.65" y="-269.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="21.65" y="-269.5" font-family="Helvetica,sans-Serif" font-size="10.00">void setSubscriptionStatus</text>
+<text text-anchor="start" x="21.65" y="-254.5" font-family="Helvetica,sans-Serif" font-size="10.00">(core::SubscriptionStatus</text>
+<text text-anchor="start" x="21.65" y="-239.5" font-family="Helvetica,sans-Serif" font-size="10.00"> state) noexcept</text>
+<text text-anchor="start" x="11.65" y="-220.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="21.65" y="-220.5" font-family="Helvetica,sans-Serif" font-size="10.00">core::SubscriptionStatus</text>
+<text text-anchor="start" x="21.65" y="-205.5" font-family="Helvetica,sans-Serif" font-size="10.00"> onEvent(bulk::BulkEvent</text>
+<text text-anchor="start" x="21.65" y="-190.5" font-family="Helvetica,sans-Serif" font-size="10.00"> const &amp;event) override</text>
+<text text-anchor="start" x="11.65" y="-171.5" font-family="Helvetica,sans-Serif" font-size="10.00">+</text>
+<text text-anchor="start" x="21.65" y="-171.5" font-family="Helvetica,sans-Serif" font-size="10.00">static auto create</text>
+<text text-anchor="start" x="21.65" y="-156.5" font-family="Helvetica,sans-Serif" font-size="10.00">(std::string_view output</text>
+<text text-anchor="start" x="21.65" y="-141.5" font-family="Helvetica,sans-Serif" font-size="10.00">_directory, std::string</text>
+<text text-anchor="start" x="21.65" y="-126.5" font-family="Helvetica,sans-Serif" font-size="10.00">_view name=&quot;&quot;)</text>
+<text text-anchor="start" x="13.15" y="-107.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45;</text>
+<text text-anchor="start" x="21.65" y="-107.5" font-family="Helvetica,sans-Serif" font-size="10.00">FileWriter(std::string</text>
+<text text-anchor="start" x="21.65" y="-92.5" font-family="Helvetica,sans-Serif" font-size="10.00">_view output_directory,</text>
+<text text-anchor="start" x="21.65" y="-77.5" font-family="Helvetica,sans-Serif" font-size="10.00"> std::string_view local_name)</text>
+<text text-anchor="start" x="13.15" y="-58.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45;</text>
+<text text-anchor="start" x="21.65" y="-58.5" font-family="Helvetica,sans-Serif" font-size="10.00">std::string getSubscriber</text>
+<text text-anchor="start" x="21.65" y="-43.5" font-family="Helvetica,sans-Serif" font-size="10.00">Name() const noexcept override</text>
+<text text-anchor="start" x="13.15" y="-24.5" font-family="Helvetica,sans-Serif" font-size="10.00">&#45;</text>
+<text text-anchor="start" x="21.65" y="-24.5" font-family="Helvetica,sans-Serif" font-size="10.00">size_t _instanceNum</text>
+<text text-anchor="start" x="21.65" y="-9.5" font-family="Helvetica,sans-Serif" font-size="10.00">() const</text>
+<polygon fill="#666666" stroke="#666666" points="7.65,-402 7.65,-402 163.65,-402 163.65,-402 7.65,-402"/>
+<polygon fill="#666666" stroke="#666666" points="7.65,-330 7.65,-330 19.65,-330 19.65,-330 7.65,-330"/>
+<polygon fill="#666666" stroke="#666666" points="19.65,-330 19.65,-330 163.65,-330 163.65,-330 19.65,-330"/>
+<polygon fill="none" stroke="#666666" points="7.65,0 7.65,-423 163.65,-423 163.65,0 7.65,0"/>
 </a>
 </g>
 </g>

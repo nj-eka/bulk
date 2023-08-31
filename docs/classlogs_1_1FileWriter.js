@@ -1,6 +1,6 @@
 var classlogs_1_1FileWriter =
 [
-    [ "FileWriter", "classlogs_1_1FileWriter.html#a263f5f0a5c43dd1e5e2f00fc49fc9c8b", null ],
+    [ "FileWriter", "classlogs_1_1FileWriter.html#aa158ac32d08bbd47af1e609d451519cd", null ],
     [ "_instanceNum", "classlogs_1_1FileWriter.html#a854c1144be7cb1c64a2603214163a11f", null ],
     [ "create", "classlogs_1_1FileWriter.html#a02edbc213561fecc4ab73d33e38f3d4b", null ],
     [ "getSubscriberID", "classlogs_1_1FileWriter.html#a578078623a0169c42bb15af8f65ca232", null ],

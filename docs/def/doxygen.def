@@ -7430,7 +7430,7 @@ _EnD_oF_dEf_TeXt_;
     sec-kind = 'private-func';
     sec-member = {
       sec-mem-kind = 'function';
-      sec-mem-id   = 'classlogs_1_1FileWriter_1a263f5f0a5c43dd1e5e2f00fc49fc9c8b';
+      sec-mem-id   = 'classlogs_1_1FileWriter_1aa158ac32d08bbd47af1e609d451519cd';
       sec-mem-virt = normal;
       sec-mem-prot = private;
       sec-mem-type = <<_EnD_oF_dEf_TeXt_
@@ -7441,19 +7441,13 @@ _EnD_oF_dEf_TeXt_;
         sec-mem-param-type = <<_EnD_oF_dEf_TeXt_
 std::string_view
 _EnD_oF_dEf_TeXt_;
-        sec-mem-param-declname = 'local_name';
-        sec-mem-param-defval = <<_EnD_oF_dEf_TeXt_
-""
-_EnD_oF_dEf_TeXt_;
+        sec-mem-param-declname = 'output_directory';
       }; /*        sec-mem-param--param */
       sec-mem-param = {
         sec-mem-param-type = <<_EnD_oF_dEf_TeXt_
 std::string_view
 _EnD_oF_dEf_TeXt_;
-        sec-mem-param-declname = 'output_directory';
-        sec-mem-param-defval = <<_EnD_oF_dEf_TeXt_
-""
-_EnD_oF_dEf_TeXt_;
+        sec-mem-param-declname = 'local_name';
       }; /*        sec-mem-param--param */
       sec-mem-desc-file = '/home/jn/codes/cpp/otus23/bulk/src/logs/file_writer.hpp';
       sec-mem-desc-line = '47';
@@ -16939,7 +16933,7 @@ const char
 _EnD_oF_dEf_TeXt_;
       var-mem-name = 'PROJECT_AUTHOR';
       var-mem-initializer = <<_EnD_oF_dEf_TeXt_
-=
+= "Jack New <njeka0108@gmail.com>"
 _EnD_oF_dEf_TeXt_;
       var-mem-desc-file = '/home/jn/codes/cpp/otus23/bulk/src/info/include/info/config.h';
       var-mem-desc-line = '5';
@@ -16965,7 +16959,7 @@ const char
 _EnD_oF_dEf_TeXt_;
       var-mem-name = 'PROJECT_REPOSITORY_URL';
       var-mem-initializer = <<_EnD_oF_dEf_TeXt_
-= ""
+= "https://github.com/nj-eka/bulk.git"
 _EnD_oF_dEf_TeXt_;
       var-mem-desc-file = '/home/jn/codes/cpp/otus23/bulk/src/info/include/info/config.h';
       var-mem-desc-line = '6';
@@ -16991,7 +16985,7 @@ const char
 _EnD_oF_dEf_TeXt_;
       var-mem-name = 'PROJECT_REPOSITORY_BRANCH';
       var-mem-initializer = <<_EnD_oF_dEf_TeXt_
-= "HEAD"
+= "main"
 _EnD_oF_dEf_TeXt_;
       var-mem-desc-file = '/home/jn/codes/cpp/otus23/bulk/src/info/include/info/config.h';
       var-mem-desc-line = '7';
@@ -17017,7 +17011,7 @@ const char
 _EnD_oF_dEf_TeXt_;
       var-mem-name = 'PROJECT_REVISION';
       var-mem-initializer = <<_EnD_oF_dEf_TeXt_
-=
+= "61fd7a3"
 _EnD_oF_dEf_TeXt_;
       var-mem-desc-file = '/home/jn/codes/cpp/otus23/bulk/src/info/include/info/config.h';
       var-mem-desc-line = '8';
@@ -17043,7 +17037,7 @@ const char
 _EnD_oF_dEf_TeXt_;
       var-mem-name = 'PROJECT_REVISION_DATETIME';
       var-mem-initializer = <<_EnD_oF_dEf_TeXt_
-=
+= "2023.08.30-11:51"
 _EnD_oF_dEf_TeXt_;
       var-mem-desc-file = '/home/jn/codes/cpp/otus23/bulk/src/info/include/info/config.h';
       var-mem-desc-line = '9';
@@ -17069,7 +17063,9 @@ const char
 _EnD_oF_dEf_TeXt_;
       var-mem-name = 'PROJECT_REVISION_HISTORY';
       var-mem-initializer = <<_EnD_oF_dEf_TeXt_
-= R"()"
+= R"(Wed Aug 30 11:51:34 2023 +0300 	 Jack New 	 refs/heads/main
+Wed Aug 30 11:51:34 2023 +0300 	 Jack New 	 refs/remotes/origin/main
+ 	  	 refs/tags/v0.0.1)"
 _EnD_oF_dEf_TeXt_;
       var-mem-desc-file = '/home/jn/codes/cpp/otus23/bulk/src/info/include/info/config.h';
       var-mem-desc-line = '10';
@@ -17095,10 +17091,10 @@ const char
 _EnD_oF_dEf_TeXt_;
       var-mem-name = 'PROJECT_VERSION';
       var-mem-initializer = <<_EnD_oF_dEf_TeXt_
-= ""
+= "v0.0.1-dirty"
 _EnD_oF_dEf_TeXt_;
       var-mem-desc-file = '/home/jn/codes/cpp/otus23/bulk/src/info/include/info/config.h';
-      var-mem-desc-line = '11';
+      var-mem-desc-line = '13';
       var-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
 
 _EnD_oF_dEf_TeXt_;
@@ -17312,7 +17308,7 @@ _EnD_oF_dEf_TeXt_;
 _EnD_oF_dEf_TeXt_;
       func-mem-referenceto = {
         func-mem-ref-id = 'config_8h_1a3e8b0d3744fccb25587da5248ef55efa';
-        func-mem-ref-line = '11';
+        func-mem-ref-line = '13';
         func-mem-ref-name = 'info::PROJECT_VERSION';
     };
       func-mem-referencedby = {
@@ -18244,7 +18240,7 @@ _EnD_oF_dEf_TeXt_;
 _EnD_oF_dEf_TeXt_;
       func-mem-referenceto = {
         func-mem-ref-id = 'config_8h_1a3e8b0d3744fccb25587da5248ef55efa';
-        func-mem-ref-line = '11';
+        func-mem-ref-line = '13';
         func-mem-ref-name = 'PROJECT_VERSION';
     };
       func-mem-referencedby = {
@@ -18328,7 +18324,7 @@ const char
 _EnD_oF_dEf_TeXt_;
       var-mem-name = 'PROJECT_AUTHOR';
       var-mem-initializer = <<_EnD_oF_dEf_TeXt_
-=
+= "Jack New <njeka0108@gmail.com>"
 _EnD_oF_dEf_TeXt_;
       var-mem-desc-file = '/home/jn/codes/cpp/otus23/bulk/src/info/include/info/config.h';
       var-mem-desc-line = '5';
@@ -18354,7 +18350,7 @@ const char
 _EnD_oF_dEf_TeXt_;
       var-mem-name = 'PROJECT_REPOSITORY_URL';
       var-mem-initializer = <<_EnD_oF_dEf_TeXt_
-= ""
+= "https://github.com/nj-eka/bulk.git"
 _EnD_oF_dEf_TeXt_;
       var-mem-desc-file = '/home/jn/codes/cpp/otus23/bulk/src/info/include/info/config.h';
       var-mem-desc-line = '6';
@@ -18380,7 +18376,7 @@ const char
 _EnD_oF_dEf_TeXt_;
       var-mem-name = 'PROJECT_REPOSITORY_BRANCH';
       var-mem-initializer = <<_EnD_oF_dEf_TeXt_
-= "HEAD"
+= "main"
 _EnD_oF_dEf_TeXt_;
       var-mem-desc-file = '/home/jn/codes/cpp/otus23/bulk/src/info/include/info/config.h';
       var-mem-desc-line = '7';
@@ -18406,7 +18402,7 @@ const char
 _EnD_oF_dEf_TeXt_;
       var-mem-name = 'PROJECT_REVISION';
       var-mem-initializer = <<_EnD_oF_dEf_TeXt_
-=
+= "61fd7a3"
 _EnD_oF_dEf_TeXt_;
       var-mem-desc-file = '/home/jn/codes/cpp/otus23/bulk/src/info/include/info/config.h';
       var-mem-desc-line = '8';
@@ -18432,7 +18428,7 @@ const char
 _EnD_oF_dEf_TeXt_;
       var-mem-name = 'PROJECT_REVISION_DATETIME';
       var-mem-initializer = <<_EnD_oF_dEf_TeXt_
-=
+= "2023.08.30-11:51"
 _EnD_oF_dEf_TeXt_;
       var-mem-desc-file = '/home/jn/codes/cpp/otus23/bulk/src/info/include/info/config.h';
       var-mem-desc-line = '9';
@@ -18458,7 +18454,9 @@ const char
 _EnD_oF_dEf_TeXt_;
       var-mem-name = 'PROJECT_REVISION_HISTORY';
       var-mem-initializer = <<_EnD_oF_dEf_TeXt_
-= R"()"
+= R"(Wed Aug 30 11:51:34 2023 +0300 	 Jack New 	 refs/heads/main
+Wed Aug 30 11:51:34 2023 +0300 	 Jack New 	 refs/remotes/origin/main
+ 	  	 refs/tags/v0.0.1)"
 _EnD_oF_dEf_TeXt_;
       var-mem-desc-file = '/home/jn/codes/cpp/otus23/bulk/src/info/include/info/config.h';
       var-mem-desc-line = '10';
@@ -18484,10 +18482,10 @@ const char
 _EnD_oF_dEf_TeXt_;
       var-mem-name = 'PROJECT_VERSION';
       var-mem-initializer = <<_EnD_oF_dEf_TeXt_
-= ""
+= "v0.0.1-dirty"
 _EnD_oF_dEf_TeXt_;
       var-mem-desc-file = '/home/jn/codes/cpp/otus23/bulk/src/info/include/info/config.h';
-      var-mem-desc-line = '11';
+      var-mem-desc-line = '13';
       var-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
 
 _EnD_oF_dEf_TeXt_;

@@ -15,4 +15,13 @@ TEST(file_writer, init) {
                                                    std::filesystem::canonical(output_dir).c_str(), local_name));
 }
 
+TEST(file_writer, diff_sid) {
+  const std::string output_dir = ".";
+
+  auto writer1 = logs::FileWriter::create(output_dir);
+  auto writer2 = logs::FileWriter::create(output_dir);
+
+  ASSERT_NE(writer1->getSubscriberID(), writer2->getSubscriberID());
+}
+
 // TODO: add mocking tests for checking file creation, writing etc...

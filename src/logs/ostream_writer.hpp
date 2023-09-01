@@ -3,9 +3,9 @@
 #include <iostream>
 #include <memory>
 
-#include "../bulk/bulk_event.hpp"
-#include "../cmd/token_event.hpp"
-#include "../core/subscriber.hpp"
+#include "bulk/bulk_event.hpp"
+#include "cmd/token_event.hpp"
+#include "core/subscriber.hpp"
 
 namespace logs {
 

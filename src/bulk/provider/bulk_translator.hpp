@@ -4,11 +4,11 @@
 #include <variant>
 #include <vector>
 
-#include "../../cmd/token_event.hpp"
-#include "../../core/publisher.hpp"
-#include "../../core/subscriber.hpp"
-#include "../../utils/overload.hpp"
-#include "../bulk_event.hpp"
+#include "bulk/bulk_event.hpp"
+#include "cmd/token_event.hpp"
+#include "core/publisher.hpp"
+#include "core/subscriber.hpp"
+#include "utils/overload.hpp"
 
 namespace bulk::provider {
 

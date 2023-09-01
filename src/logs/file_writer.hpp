@@ -5,8 +5,8 @@
 #include <fstream>
 #include <memory>
 
-#include "../bulk/bulk_event.hpp"
-#include "../core/subscriber.hpp"
+#include "bulk/bulk_event.hpp"
+#include "core/subscriber.hpp"
 
 namespace logs {
 

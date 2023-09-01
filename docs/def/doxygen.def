@@ -17011,7 +17011,7 @@ const char
 _EnD_oF_dEf_TeXt_;
       var-mem-name = 'PROJECT_REVISION';
       var-mem-initializer = <<_EnD_oF_dEf_TeXt_
-= "61fd7a3"
+= "8a43afc"
 _EnD_oF_dEf_TeXt_;
       var-mem-desc-file = '/home/jn/codes/cpp/otus23/bulk/src/info/include/info/config.h';
       var-mem-desc-line = '8';
@@ -17037,7 +17037,7 @@ const char
 _EnD_oF_dEf_TeXt_;
       var-mem-name = 'PROJECT_REVISION_DATETIME';
       var-mem-initializer = <<_EnD_oF_dEf_TeXt_
-= "2023.08.30-11:51"
+= "2023.08.31-17:44"
 _EnD_oF_dEf_TeXt_;
       var-mem-desc-file = '/home/jn/codes/cpp/otus23/bulk/src/info/include/info/config.h';
       var-mem-desc-line = '9';
@@ -17063,8 +17063,8 @@ const char
 _EnD_oF_dEf_TeXt_;
       var-mem-name = 'PROJECT_REVISION_HISTORY';
       var-mem-initializer = <<_EnD_oF_dEf_TeXt_
-= R"(Wed Aug 30 11:51:34 2023 +0300 	 Jack New 	 refs/heads/main
-Wed Aug 30 11:51:34 2023 +0300 	 Jack New 	 refs/remotes/origin/main
+= R"(Thu Aug 31 17:44:49 2023 +0300 	 Jack New 	 refs/heads/main
+Thu Aug 31 17:44:49 2023 +0300 	 Jack New 	 refs/remotes/origin/main
  	  	 refs/tags/v0.0.1)"
 _EnD_oF_dEf_TeXt_;
       var-mem-desc-file = '/home/jn/codes/cpp/otus23/bulk/src/info/include/info/config.h';
@@ -17091,7 +17091,7 @@ const char
 _EnD_oF_dEf_TeXt_;
       var-mem-name = 'PROJECT_VERSION';
       var-mem-initializer = <<_EnD_oF_dEf_TeXt_
-= "v0.0.1-dirty"
+= "v0.0.1-4-g8a43afc-dirty"
 _EnD_oF_dEf_TeXt_;
       var-mem-desc-file = '/home/jn/codes/cpp/otus23/bulk/src/info/include/info/config.h';
       var-mem-desc-line = '13';
@@ -17105,6 +17105,136 @@ _EnD_oF_dEf_TeXt_;
         var-mem-ref-id = 'version_8h_1a0b0e75f2a6d438265b88d1b0e2b21b52';
         var-mem-ref-line = '13';
         var-mem-ref-name = 'info::info_project_version';
+    };
+    }; /* var-member */
+    var-member = {
+      var-mem-kind = 'variable';
+      var-mem-id   = 'namespaceinfo_1a8ec31cbfaacee7aa95a2812ff32ea13f';
+      var-mem-virt = normal;
+      var-mem-prot = public;
+      var-mem-type = <<_EnD_oF_dEf_TeXt_
+const char
+_EnD_oF_dEf_TeXt_;
+      var-mem-name = 'COMPILER_NAME';
+      var-mem-initializer = <<_EnD_oF_dEf_TeXt_
+= "g++"
+_EnD_oF_dEf_TeXt_;
+      var-mem-desc-file = '/home/jn/codes/cpp/otus23/bulk/src/info/include/info/config.h';
+      var-mem-desc-line = '15';
+      var-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      var-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      var-mem-referencedby = {
+        var-mem-ref-id = 'version_8h_1ad14822b50a586b36ccf5978ab1ac4ec7';
+        var-mem-ref-line = '15';
+        var-mem-ref-name = 'info::info_compiler_name';
+    };
+    }; /* var-member */
+    var-member = {
+      var-mem-kind = 'variable';
+      var-mem-id   = 'namespaceinfo_1aa4bd9895d1d5aa49815c53a14b907abb';
+      var-mem-virt = normal;
+      var-mem-prot = public;
+      var-mem-type = <<_EnD_oF_dEf_TeXt_
+const char
+_EnD_oF_dEf_TeXt_;
+      var-mem-name = 'COMPILER_VERSION';
+      var-mem-initializer = <<_EnD_oF_dEf_TeXt_
+= "13.1.1"
+_EnD_oF_dEf_TeXt_;
+      var-mem-desc-file = '/home/jn/codes/cpp/otus23/bulk/src/info/include/info/config.h';
+      var-mem-desc-line = '16';
+      var-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      var-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      var-mem-referencedby = {
+        var-mem-ref-id = 'version_8h_1ad680bf7ac70dbb1d24b428f55159b013';
+        var-mem-ref-line = '16';
+        var-mem-ref-name = 'info::info_compiler_version';
+    };
+    }; /* var-member */
+    var-member = {
+      var-mem-kind = 'variable';
+      var-mem-id   = 'namespaceinfo_1ab6700cec03e660c39d77f5a19884c2ca';
+      var-mem-virt = normal;
+      var-mem-prot = public;
+      var-mem-type = <<_EnD_oF_dEf_TeXt_
+const char
+_EnD_oF_dEf_TeXt_;
+      var-mem-name = 'HOST_SYSTEM';
+      var-mem-initializer = <<_EnD_oF_dEf_TeXt_
+= "Linux-6.1.41-gentoo-x86_64"
+_EnD_oF_dEf_TeXt_;
+      var-mem-desc-file = '/home/jn/codes/cpp/otus23/bulk/src/info/include/info/config.h';
+      var-mem-desc-line = '17';
+      var-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      var-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      var-mem-referencedby = {
+        var-mem-ref-id = 'version_8h_1af138dcf75a98d5fb9358ac1ed3800394';
+        var-mem-ref-line = '17';
+        var-mem-ref-name = 'info::info_host_system';
+    };
+    }; /* var-member */
+    var-member = {
+      var-mem-kind = 'variable';
+      var-mem-id   = 'namespaceinfo_1a61ca8afc46c490520dd9a91bcbbb5f63';
+      var-mem-virt = normal;
+      var-mem-prot = public;
+      var-mem-type = <<_EnD_oF_dEf_TeXt_
+const char
+_EnD_oF_dEf_TeXt_;
+      var-mem-name = 'BOOST_VERSION';
+      var-mem-initializer = <<_EnD_oF_dEf_TeXt_
+= "1.82.0"
+_EnD_oF_dEf_TeXt_;
+      var-mem-desc-file = '/home/jn/codes/cpp/otus23/bulk/src/info/include/info/config.h';
+      var-mem-desc-line = '19';
+      var-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      var-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      var-mem-referencedby = {
+        var-mem-ref-id = 'version_8h_1a35557f9934568e2d7c71bc382a94c359';
+        var-mem-ref-line = '19';
+        var-mem-ref-name = 'info::info_boost_version';
+    };
+    }; /* var-member */
+    var-member = {
+      var-mem-kind = 'variable';
+      var-mem-id   = 'namespaceinfo_1a021e2df9bbcf6d042f60ab4a035ff87b';
+      var-mem-virt = normal;
+      var-mem-prot = public;
+      var-mem-type = <<_EnD_oF_dEf_TeXt_
+const char
+_EnD_oF_dEf_TeXt_;
+      var-mem-name = 'BOOST_LIBRARIES';
+      var-mem-initializer = <<_EnD_oF_dEf_TeXt_
+= "Boost::program_options"
+_EnD_oF_dEf_TeXt_;
+      var-mem-desc-file = '/home/jn/codes/cpp/otus23/bulk/src/info/include/info/config.h';
+      var-mem-desc-line = '20';
+      var-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      var-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      var-mem-referencedby = {
+        var-mem-ref-id = 'version_8h_1a4f6b5083c272141764c35b0cff843ae7';
+        var-mem-ref-line = '20';
+        var-mem-ref-name = 'info::info_boost_libraries';
     };
     }; /* var-member */
     };
@@ -17312,6 +17442,11 @@ _EnD_oF_dEf_TeXt_;
         func-mem-ref-name = 'info::PROJECT_VERSION';
     };
       func-mem-referencedby = {
+        func-mem-ref-id = 'version_8cpp_1adf619fee1b67e68e79a217741803d1c1';
+        func-mem-ref-line = '5';
+        func-mem-ref-name = 'info::info_project_full';
+    };
+      func-mem-referencedby = {
         func-mem-ref-id = 'options_8hpp_1ac5abfe1ee497dcb11ea7435db4aed06d';
         func-mem-ref-line = '37';
         func-mem-ref-name = 'args::info_requested';
@@ -17324,13 +17459,13 @@ _EnD_oF_dEf_TeXt_;
     }; /* func-member */
     func-member = {
       func-mem-kind = 'function';
-      func-mem-id   = 'namespaceinfo_1adf619fee1b67e68e79a217741803d1c1';
+      func-mem-id   = 'namespaceinfo_1ad14822b50a586b36ccf5978ab1ac4ec7';
       func-mem-virt = normal;
       func-mem-prot = public;
       func-mem-type = <<_EnD_oF_dEf_TeXt_
-std::string
+constexpr std::string_view
 _EnD_oF_dEf_TeXt_;
-      func-mem-name = 'info_project_full';
+      func-mem-name = 'info_compiler_name';
       func-mem-desc-file = '/home/jn/codes/cpp/otus23/bulk/src/info/include/info/version.h';
       func-mem-desc-line = '15';
       func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
@@ -17339,6 +17474,171 @@ _EnD_oF_dEf_TeXt_;
       func-mem-documentation = <<_EnD_oF_dEf_TeXt_
 
 _EnD_oF_dEf_TeXt_;
+      func-mem-referenceto = {
+        func-mem-ref-id = 'config_8h_1a8ec31cbfaacee7aa95a2812ff32ea13f';
+        func-mem-ref-line = '15';
+        func-mem-ref-name = 'info::COMPILER_NAME';
+    };
+      func-mem-referencedby = {
+        func-mem-ref-id = 'version_8cpp_1adf619fee1b67e68e79a217741803d1c1';
+        func-mem-ref-line = '5';
+        func-mem-ref-name = 'info::info_project_full';
+    };
+    }; /* func-member */
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = 'namespaceinfo_1ad680bf7ac70dbb1d24b428f55159b013';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+constexpr std::string_view
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'info_compiler_version';
+      func-mem-desc-file = '/home/jn/codes/cpp/otus23/bulk/src/info/include/info/version.h';
+      func-mem-desc-line = '16';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-referenceto = {
+        func-mem-ref-id = 'config_8h_1aa4bd9895d1d5aa49815c53a14b907abb';
+        func-mem-ref-line = '16';
+        func-mem-ref-name = 'info::COMPILER_VERSION';
+    };
+      func-mem-referencedby = {
+        func-mem-ref-id = 'version_8cpp_1adf619fee1b67e68e79a217741803d1c1';
+        func-mem-ref-line = '5';
+        func-mem-ref-name = 'info::info_project_full';
+    };
+    }; /* func-member */
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = 'namespaceinfo_1af138dcf75a98d5fb9358ac1ed3800394';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+constexpr std::string_view
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'info_host_system';
+      func-mem-desc-file = '/home/jn/codes/cpp/otus23/bulk/src/info/include/info/version.h';
+      func-mem-desc-line = '17';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-referenceto = {
+        func-mem-ref-id = 'config_8h_1ab6700cec03e660c39d77f5a19884c2ca';
+        func-mem-ref-line = '17';
+        func-mem-ref-name = 'info::HOST_SYSTEM';
+    };
+      func-mem-referencedby = {
+        func-mem-ref-id = 'version_8cpp_1adf619fee1b67e68e79a217741803d1c1';
+        func-mem-ref-line = '5';
+        func-mem-ref-name = 'info::info_project_full';
+    };
+    }; /* func-member */
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = 'namespaceinfo_1a35557f9934568e2d7c71bc382a94c359';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+constexpr std::string_view
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'info_boost_version';
+      func-mem-desc-file = '/home/jn/codes/cpp/otus23/bulk/src/info/include/info/version.h';
+      func-mem-desc-line = '19';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-referenceto = {
+        func-mem-ref-id = 'config_8h_1a61ca8afc46c490520dd9a91bcbbb5f63';
+        func-mem-ref-line = '19';
+        func-mem-ref-name = 'info::BOOST_VERSION';
+    };
+      func-mem-referencedby = {
+        func-mem-ref-id = 'version_8cpp_1adf619fee1b67e68e79a217741803d1c1';
+        func-mem-ref-line = '5';
+        func-mem-ref-name = 'info::info_project_full';
+    };
+    }; /* func-member */
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = 'namespaceinfo_1a4f6b5083c272141764c35b0cff843ae7';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+constexpr std::string_view
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'info_boost_libraries';
+      func-mem-desc-file = '/home/jn/codes/cpp/otus23/bulk/src/info/include/info/version.h';
+      func-mem-desc-line = '20';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-referenceto = {
+        func-mem-ref-id = 'config_8h_1a021e2df9bbcf6d042f60ab4a035ff87b';
+        func-mem-ref-line = '20';
+        func-mem-ref-name = 'info::BOOST_LIBRARIES';
+    };
+      func-mem-referencedby = {
+        func-mem-ref-id = 'version_8cpp_1adf619fee1b67e68e79a217741803d1c1';
+        func-mem-ref-line = '5';
+        func-mem-ref-name = 'info::info_project_full';
+    };
+    }; /* func-member */
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = 'namespaceinfo_1adf619fee1b67e68e79a217741803d1c1';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+std::string
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'info_project_full';
+      func-mem-desc-file = '/home/jn/codes/cpp/otus23/bulk/src/info/include/info/version.h';
+      func-mem-desc-line = '22';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-referenceto = {
+        func-mem-ref-id = 'version_8h_1a4f6b5083c272141764c35b0cff843ae7';
+        func-mem-ref-line = '20';
+        func-mem-ref-name = 'info::info_boost_libraries';
+    };
+      func-mem-referenceto = {
+        func-mem-ref-id = 'version_8h_1a35557f9934568e2d7c71bc382a94c359';
+        func-mem-ref-line = '19';
+        func-mem-ref-name = 'info::info_boost_version';
+    };
+      func-mem-referenceto = {
+        func-mem-ref-id = 'version_8h_1ad14822b50a586b36ccf5978ab1ac4ec7';
+        func-mem-ref-line = '15';
+        func-mem-ref-name = 'info::info_compiler_name';
+    };
+      func-mem-referenceto = {
+        func-mem-ref-id = 'version_8h_1ad680bf7ac70dbb1d24b428f55159b013';
+        func-mem-ref-line = '16';
+        func-mem-ref-name = 'info::info_compiler_version';
+    };
+      func-mem-referenceto = {
+        func-mem-ref-id = 'version_8h_1af138dcf75a98d5fb9358ac1ed3800394';
+        func-mem-ref-line = '17';
+        func-mem-ref-name = 'info::info_host_system';
+    };
       func-mem-referenceto = {
         func-mem-ref-id = 'version_8h_1a28d71fb524538a7bdfbb1483a8a3a4cb';
         func-mem-ref-line = '7';
@@ -17368,6 +17668,11 @@ _EnD_oF_dEf_TeXt_;
         func-mem-ref-id = 'version_8h_1a9d8c1cc05c7db3face2e4a8b5fc29539';
         func-mem-ref-line = '12';
         func-mem-ref-name = 'info::info_project_revision_history';
+    };
+      func-mem-referenceto = {
+        func-mem-ref-id = 'version_8h_1a0b0e75f2a6d438265b88d1b0e2b21b52';
+        func-mem-ref-line = '13';
+        func-mem-ref-name = 'info::info_project_version';
     };
       func-mem-referencedby = {
         func-mem-ref-id = 'options_8hpp_1ac5abfe1ee497dcb11ea7435db4aed06d';
@@ -18244,6 +18549,11 @@ _EnD_oF_dEf_TeXt_;
         func-mem-ref-name = 'PROJECT_VERSION';
     };
       func-mem-referencedby = {
+        func-mem-ref-id = 'version_8cpp_1adf619fee1b67e68e79a217741803d1c1';
+        func-mem-ref-line = '5';
+        func-mem-ref-name = 'info_project_full';
+    };
+      func-mem-referencedby = {
         func-mem-ref-id = 'options_8hpp_1ac5abfe1ee497dcb11ea7435db4aed06d';
         func-mem-ref-line = '37';
         func-mem-ref-name = 'args::info_requested';
@@ -18256,13 +18566,13 @@ _EnD_oF_dEf_TeXt_;
     }; /* func-member */
     func-member = {
       func-mem-kind = 'function';
-      func-mem-id   = 'namespaceinfo_1adf619fee1b67e68e79a217741803d1c1';
+      func-mem-id   = 'namespaceinfo_1ad14822b50a586b36ccf5978ab1ac4ec7';
       func-mem-virt = normal;
       func-mem-prot = public;
       func-mem-type = <<_EnD_oF_dEf_TeXt_
-std::string
+constexpr std::string_view
 _EnD_oF_dEf_TeXt_;
-      func-mem-name = 'info_project_full';
+      func-mem-name = 'info_compiler_name';
       func-mem-desc-file = '/home/jn/codes/cpp/otus23/bulk/src/info/include/info/version.h';
       func-mem-desc-line = '15';
       func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
@@ -18271,6 +18581,171 @@ _EnD_oF_dEf_TeXt_;
       func-mem-documentation = <<_EnD_oF_dEf_TeXt_
 
 _EnD_oF_dEf_TeXt_;
+      func-mem-referenceto = {
+        func-mem-ref-id = 'config_8h_1a8ec31cbfaacee7aa95a2812ff32ea13f';
+        func-mem-ref-line = '15';
+        func-mem-ref-name = 'COMPILER_NAME';
+    };
+      func-mem-referencedby = {
+        func-mem-ref-id = 'version_8cpp_1adf619fee1b67e68e79a217741803d1c1';
+        func-mem-ref-line = '5';
+        func-mem-ref-name = 'info_project_full';
+    };
+    }; /* func-member */
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = 'namespaceinfo_1ad680bf7ac70dbb1d24b428f55159b013';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+constexpr std::string_view
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'info_compiler_version';
+      func-mem-desc-file = '/home/jn/codes/cpp/otus23/bulk/src/info/include/info/version.h';
+      func-mem-desc-line = '16';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-referenceto = {
+        func-mem-ref-id = 'config_8h_1aa4bd9895d1d5aa49815c53a14b907abb';
+        func-mem-ref-line = '16';
+        func-mem-ref-name = 'COMPILER_VERSION';
+    };
+      func-mem-referencedby = {
+        func-mem-ref-id = 'version_8cpp_1adf619fee1b67e68e79a217741803d1c1';
+        func-mem-ref-line = '5';
+        func-mem-ref-name = 'info_project_full';
+    };
+    }; /* func-member */
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = 'namespaceinfo_1af138dcf75a98d5fb9358ac1ed3800394';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+constexpr std::string_view
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'info_host_system';
+      func-mem-desc-file = '/home/jn/codes/cpp/otus23/bulk/src/info/include/info/version.h';
+      func-mem-desc-line = '17';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-referenceto = {
+        func-mem-ref-id = 'config_8h_1ab6700cec03e660c39d77f5a19884c2ca';
+        func-mem-ref-line = '17';
+        func-mem-ref-name = 'HOST_SYSTEM';
+    };
+      func-mem-referencedby = {
+        func-mem-ref-id = 'version_8cpp_1adf619fee1b67e68e79a217741803d1c1';
+        func-mem-ref-line = '5';
+        func-mem-ref-name = 'info_project_full';
+    };
+    }; /* func-member */
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = 'namespaceinfo_1a35557f9934568e2d7c71bc382a94c359';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+constexpr std::string_view
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'info_boost_version';
+      func-mem-desc-file = '/home/jn/codes/cpp/otus23/bulk/src/info/include/info/version.h';
+      func-mem-desc-line = '19';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-referenceto = {
+        func-mem-ref-id = 'config_8h_1a61ca8afc46c490520dd9a91bcbbb5f63';
+        func-mem-ref-line = '19';
+        func-mem-ref-name = 'BOOST_VERSION';
+    };
+      func-mem-referencedby = {
+        func-mem-ref-id = 'version_8cpp_1adf619fee1b67e68e79a217741803d1c1';
+        func-mem-ref-line = '5';
+        func-mem-ref-name = 'info_project_full';
+    };
+    }; /* func-member */
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = 'namespaceinfo_1a4f6b5083c272141764c35b0cff843ae7';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+constexpr std::string_view
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'info_boost_libraries';
+      func-mem-desc-file = '/home/jn/codes/cpp/otus23/bulk/src/info/include/info/version.h';
+      func-mem-desc-line = '20';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-referenceto = {
+        func-mem-ref-id = 'config_8h_1a021e2df9bbcf6d042f60ab4a035ff87b';
+        func-mem-ref-line = '20';
+        func-mem-ref-name = 'BOOST_LIBRARIES';
+    };
+      func-mem-referencedby = {
+        func-mem-ref-id = 'version_8cpp_1adf619fee1b67e68e79a217741803d1c1';
+        func-mem-ref-line = '5';
+        func-mem-ref-name = 'info_project_full';
+    };
+    }; /* func-member */
+    func-member = {
+      func-mem-kind = 'function';
+      func-mem-id   = 'namespaceinfo_1adf619fee1b67e68e79a217741803d1c1';
+      func-mem-virt = normal;
+      func-mem-prot = public;
+      func-mem-type = <<_EnD_oF_dEf_TeXt_
+std::string
+_EnD_oF_dEf_TeXt_;
+      func-mem-name = 'info_project_full';
+      func-mem-desc-file = '/home/jn/codes/cpp/otus23/bulk/src/info/include/info/version.h';
+      func-mem-desc-line = '22';
+      func-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      func-mem-referenceto = {
+        func-mem-ref-id = 'version_8h_1a4f6b5083c272141764c35b0cff843ae7';
+        func-mem-ref-line = '20';
+        func-mem-ref-name = 'info_boost_libraries';
+    };
+      func-mem-referenceto = {
+        func-mem-ref-id = 'version_8h_1a35557f9934568e2d7c71bc382a94c359';
+        func-mem-ref-line = '19';
+        func-mem-ref-name = 'info_boost_version';
+    };
+      func-mem-referenceto = {
+        func-mem-ref-id = 'version_8h_1ad14822b50a586b36ccf5978ab1ac4ec7';
+        func-mem-ref-line = '15';
+        func-mem-ref-name = 'info_compiler_name';
+    };
+      func-mem-referenceto = {
+        func-mem-ref-id = 'version_8h_1ad680bf7ac70dbb1d24b428f55159b013';
+        func-mem-ref-line = '16';
+        func-mem-ref-name = 'info_compiler_version';
+    };
+      func-mem-referenceto = {
+        func-mem-ref-id = 'version_8h_1af138dcf75a98d5fb9358ac1ed3800394';
+        func-mem-ref-line = '17';
+        func-mem-ref-name = 'info_host_system';
+    };
       func-mem-referenceto = {
         func-mem-ref-id = 'version_8h_1a28d71fb524538a7bdfbb1483a8a3a4cb';
         func-mem-ref-line = '7';
@@ -18300,6 +18775,11 @@ _EnD_oF_dEf_TeXt_;
         func-mem-ref-id = 'version_8h_1a9d8c1cc05c7db3face2e4a8b5fc29539';
         func-mem-ref-line = '12';
         func-mem-ref-name = 'info_project_revision_history';
+    };
+      func-mem-referenceto = {
+        func-mem-ref-id = 'version_8h_1a0b0e75f2a6d438265b88d1b0e2b21b52';
+        func-mem-ref-line = '13';
+        func-mem-ref-name = 'info_project_version';
     };
       func-mem-referencedby = {
         func-mem-ref-id = 'options_8hpp_1ac5abfe1ee497dcb11ea7435db4aed06d';
@@ -18402,7 +18882,7 @@ const char
 _EnD_oF_dEf_TeXt_;
       var-mem-name = 'PROJECT_REVISION';
       var-mem-initializer = <<_EnD_oF_dEf_TeXt_
-= "61fd7a3"
+= "8a43afc"
 _EnD_oF_dEf_TeXt_;
       var-mem-desc-file = '/home/jn/codes/cpp/otus23/bulk/src/info/include/info/config.h';
       var-mem-desc-line = '8';
@@ -18428,7 +18908,7 @@ const char
 _EnD_oF_dEf_TeXt_;
       var-mem-name = 'PROJECT_REVISION_DATETIME';
       var-mem-initializer = <<_EnD_oF_dEf_TeXt_
-= "2023.08.30-11:51"
+= "2023.08.31-17:44"
 _EnD_oF_dEf_TeXt_;
       var-mem-desc-file = '/home/jn/codes/cpp/otus23/bulk/src/info/include/info/config.h';
       var-mem-desc-line = '9';
@@ -18454,8 +18934,8 @@ const char
 _EnD_oF_dEf_TeXt_;
       var-mem-name = 'PROJECT_REVISION_HISTORY';
       var-mem-initializer = <<_EnD_oF_dEf_TeXt_
-= R"(Wed Aug 30 11:51:34 2023 +0300 	 Jack New 	 refs/heads/main
-Wed Aug 30 11:51:34 2023 +0300 	 Jack New 	 refs/remotes/origin/main
+= R"(Thu Aug 31 17:44:49 2023 +0300 	 Jack New 	 refs/heads/main
+Thu Aug 31 17:44:49 2023 +0300 	 Jack New 	 refs/remotes/origin/main
  	  	 refs/tags/v0.0.1)"
 _EnD_oF_dEf_TeXt_;
       var-mem-desc-file = '/home/jn/codes/cpp/otus23/bulk/src/info/include/info/config.h';
@@ -18482,7 +18962,7 @@ const char
 _EnD_oF_dEf_TeXt_;
       var-mem-name = 'PROJECT_VERSION';
       var-mem-initializer = <<_EnD_oF_dEf_TeXt_
-= "v0.0.1-dirty"
+= "v0.0.1-4-g8a43afc-dirty"
 _EnD_oF_dEf_TeXt_;
       var-mem-desc-file = '/home/jn/codes/cpp/otus23/bulk/src/info/include/info/config.h';
       var-mem-desc-line = '13';
@@ -18496,6 +18976,136 @@ _EnD_oF_dEf_TeXt_;
         var-mem-ref-id = 'version_8h_1a0b0e75f2a6d438265b88d1b0e2b21b52';
         var-mem-ref-line = '13';
         var-mem-ref-name = 'info_project_version';
+    };
+    }; /* var-member */
+    var-member = {
+      var-mem-kind = 'variable';
+      var-mem-id   = 'namespaceinfo_1a8ec31cbfaacee7aa95a2812ff32ea13f';
+      var-mem-virt = normal;
+      var-mem-prot = public;
+      var-mem-type = <<_EnD_oF_dEf_TeXt_
+const char
+_EnD_oF_dEf_TeXt_;
+      var-mem-name = 'COMPILER_NAME';
+      var-mem-initializer = <<_EnD_oF_dEf_TeXt_
+= "g++"
+_EnD_oF_dEf_TeXt_;
+      var-mem-desc-file = '/home/jn/codes/cpp/otus23/bulk/src/info/include/info/config.h';
+      var-mem-desc-line = '15';
+      var-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      var-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      var-mem-referencedby = {
+        var-mem-ref-id = 'version_8h_1ad14822b50a586b36ccf5978ab1ac4ec7';
+        var-mem-ref-line = '15';
+        var-mem-ref-name = 'info_compiler_name';
+    };
+    }; /* var-member */
+    var-member = {
+      var-mem-kind = 'variable';
+      var-mem-id   = 'namespaceinfo_1aa4bd9895d1d5aa49815c53a14b907abb';
+      var-mem-virt = normal;
+      var-mem-prot = public;
+      var-mem-type = <<_EnD_oF_dEf_TeXt_
+const char
+_EnD_oF_dEf_TeXt_;
+      var-mem-name = 'COMPILER_VERSION';
+      var-mem-initializer = <<_EnD_oF_dEf_TeXt_
+= "13.1.1"
+_EnD_oF_dEf_TeXt_;
+      var-mem-desc-file = '/home/jn/codes/cpp/otus23/bulk/src/info/include/info/config.h';
+      var-mem-desc-line = '16';
+      var-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      var-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      var-mem-referencedby = {
+        var-mem-ref-id = 'version_8h_1ad680bf7ac70dbb1d24b428f55159b013';
+        var-mem-ref-line = '16';
+        var-mem-ref-name = 'info_compiler_version';
+    };
+    }; /* var-member */
+    var-member = {
+      var-mem-kind = 'variable';
+      var-mem-id   = 'namespaceinfo_1ab6700cec03e660c39d77f5a19884c2ca';
+      var-mem-virt = normal;
+      var-mem-prot = public;
+      var-mem-type = <<_EnD_oF_dEf_TeXt_
+const char
+_EnD_oF_dEf_TeXt_;
+      var-mem-name = 'HOST_SYSTEM';
+      var-mem-initializer = <<_EnD_oF_dEf_TeXt_
+= "Linux-6.1.41-gentoo-x86_64"
+_EnD_oF_dEf_TeXt_;
+      var-mem-desc-file = '/home/jn/codes/cpp/otus23/bulk/src/info/include/info/config.h';
+      var-mem-desc-line = '17';
+      var-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      var-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      var-mem-referencedby = {
+        var-mem-ref-id = 'version_8h_1af138dcf75a98d5fb9358ac1ed3800394';
+        var-mem-ref-line = '17';
+        var-mem-ref-name = 'info_host_system';
+    };
+    }; /* var-member */
+    var-member = {
+      var-mem-kind = 'variable';
+      var-mem-id   = 'namespaceinfo_1a61ca8afc46c490520dd9a91bcbbb5f63';
+      var-mem-virt = normal;
+      var-mem-prot = public;
+      var-mem-type = <<_EnD_oF_dEf_TeXt_
+const char
+_EnD_oF_dEf_TeXt_;
+      var-mem-name = 'BOOST_VERSION';
+      var-mem-initializer = <<_EnD_oF_dEf_TeXt_
+= "1.82.0"
+_EnD_oF_dEf_TeXt_;
+      var-mem-desc-file = '/home/jn/codes/cpp/otus23/bulk/src/info/include/info/config.h';
+      var-mem-desc-line = '19';
+      var-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      var-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      var-mem-referencedby = {
+        var-mem-ref-id = 'version_8h_1a35557f9934568e2d7c71bc382a94c359';
+        var-mem-ref-line = '19';
+        var-mem-ref-name = 'info_boost_version';
+    };
+    }; /* var-member */
+    var-member = {
+      var-mem-kind = 'variable';
+      var-mem-id   = 'namespaceinfo_1a021e2df9bbcf6d042f60ab4a035ff87b';
+      var-mem-virt = normal;
+      var-mem-prot = public;
+      var-mem-type = <<_EnD_oF_dEf_TeXt_
+const char
+_EnD_oF_dEf_TeXt_;
+      var-mem-name = 'BOOST_LIBRARIES';
+      var-mem-initializer = <<_EnD_oF_dEf_TeXt_
+= "Boost::program_options"
+_EnD_oF_dEf_TeXt_;
+      var-mem-desc-file = '/home/jn/codes/cpp/otus23/bulk/src/info/include/info/config.h';
+      var-mem-desc-line = '20';
+      var-mem-briefdesc =    <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      var-mem-documentation = <<_EnD_oF_dEf_TeXt_
+
+_EnD_oF_dEf_TeXt_;
+      var-mem-referencedby = {
+        var-mem-ref-id = 'version_8h_1a4f6b5083c272141764c35b0cff843ae7';
+        var-mem-ref-line = '20';
+        var-mem-ref-name = 'info_boost_libraries';
     };
     }; /* var-member */
     };

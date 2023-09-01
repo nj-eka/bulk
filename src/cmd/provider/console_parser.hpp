@@ -2,9 +2,9 @@
 
 #include <iostream>
 
-#include "../../core/publisher.hpp"
-#include "../../utils/string_utils.hpp"
-#include "../token_event.hpp"
+#include "core/publisher.hpp"
+#include "utils/string_utils.hpp"
+#include "cmd/token_event.hpp"
 
 namespace cmd::provider {
 

@@ -26,7 +26,7 @@
  <tr id="projectrow">
   <td id="projectlogo"><img alt="Logo" src="bulk_logo.png"/></td>
   <td id="projectalign">
-   <div id="projectname">bulk<span id="projectnumber">&#160;0.0.1-dirty</span>
+   <div id="projectname">bulk<span id="projectnumber">&#160;0.0.1-4-g8a43afc-dirty</span>
    </div>
    <div id="projectbrief">course c++ developer: hw7 - batch (bulk) commands processing program</div>
   </td>
@@ -100,11 +100,11 @@ $(document).ready(function(){initNavTree('bulk__translator_8hpp_source.html','')
 <div class="line"><a id="l00004" name="l00004"></a><span class="lineno">    4</span><span class="preprocessor">#include &lt;variant&gt;</span></div>
 <div class="line"><a id="l00005" name="l00005"></a><span class="lineno">    5</span><span class="preprocessor">#include &lt;vector&gt;</span></div>
 <div class="line"><a id="l00006" name="l00006"></a><span class="lineno">    6</span> </div>
-<div class="line"><a id="l00007" name="l00007"></a><span class="lineno">    7</span><span class="preprocessor">#include &quot;../../cmd/token_event.hpp&quot;</span></div>
-<div class="line"><a id="l00008" name="l00008"></a><span class="lineno">    8</span><span class="preprocessor">#include &quot;../../core/publisher.hpp&quot;</span></div>
-<div class="line"><a id="l00009" name="l00009"></a><span class="lineno">    9</span><span class="preprocessor">#include &quot;../../core/subscriber.hpp&quot;</span></div>
-<div class="line"><a id="l00010" name="l00010"></a><span class="lineno">   10</span><span class="preprocessor">#include &quot;../../utils/overload.hpp&quot;</span></div>
-<div class="line"><a id="l00011" name="l00011"></a><span class="lineno">   11</span><span class="preprocessor">#include &quot;../bulk_event.hpp&quot;</span></div>
+<div class="line"><a id="l00007" name="l00007"></a><span class="lineno">    7</span><span class="preprocessor">#include &quot;<a class="code" href="bulk__event_8hpp.html">bulk/bulk_event.hpp</a>&quot;</span></div>
+<div class="line"><a id="l00008" name="l00008"></a><span class="lineno">    8</span><span class="preprocessor">#include &quot;<a class="code" href="token__event_8hpp.html">cmd/token_event.hpp</a>&quot;</span></div>
+<div class="line"><a id="l00009" name="l00009"></a><span class="lineno">    9</span><span class="preprocessor">#include &quot;<a class="code" href="publisher_8hpp.html">core/publisher.hpp</a>&quot;</span></div>
+<div class="line"><a id="l00010" name="l00010"></a><span class="lineno">   10</span><span class="preprocessor">#include &quot;<a class="code" href="subscriber_8hpp.html">core/subscriber.hpp</a>&quot;</span></div>
+<div class="line"><a id="l00011" name="l00011"></a><span class="lineno">   11</span><span class="preprocessor">#include &quot;<a class="code" href="overload_8hpp.html">utils/overload.hpp</a>&quot;</span></div>
 <div class="line"><a id="l00012" name="l00012"></a><span class="lineno">   12</span> </div>
 <div class="line"><a id="l00013" name="l00013"></a><span class="lineno"><a class="line" href="namespacebulk_1_1provider.html">   13</a></span><span class="keyword">namespace </span><a class="code hl_namespace" href="namespacebulk_1_1provider.html">bulk::provider</a> {</div>
 <div class="line"><a id="l00014" name="l00014"></a><span class="lineno">   14</span> </div>
@@ -215,6 +215,7 @@ $(document).ready(function(){initNavTree('bulk__translator_8hpp_source.html','')
 <div class="line"><a id="l00119" name="l00119"></a><span class="lineno">  119</span>};</div>
 <div class="line"><a id="l00120" name="l00120"></a><span class="lineno">  120</span> </div>
 <div class="line"><a id="l00121" name="l00121"></a><span class="lineno">  121</span>}  <span class="comment">// namespace bulk::provider</span></div>
+<div class="ttc" id="abulk__event_8hpp_html"><div class="ttname"><a href="bulk__event_8hpp.html">bulk_event.hpp</a></div></div>
 <div class="ttc" id="aclassbulk_1_1provider_1_1BulkTranslator_html"><div class="ttname"><a href="classbulk_1_1provider_1_1BulkTranslator.html">bulk::provider::BulkTranslator</a></div><div class="ttdef"><b>Definition</b> <a href="bulk__translator_8hpp_source.html#l00015">bulk_translator.hpp:17</a></div></div>
 <div class="ttc" id="aclassbulk_1_1provider_1_1BulkTranslator_html_a29a69ef5b036f5fcabe9b67a3db0ebf8"><div class="ttname"><a href="classbulk_1_1provider_1_1BulkTranslator.html#a29a69ef5b036f5fcabe9b67a3db0ebf8">bulk::provider::BulkTranslator::VState</a></div><div class="ttdeci">std::variant&lt; State::Base, State::Block, State::Failed, State::Finish &gt; VState</div><div class="ttdef"><b>Definition</b> <a href="bulk__translator_8hpp_source.html#l00115">bulk_translator.hpp:115</a></div></div>
 <div class="ttc" id="aclassbulk_1_1provider_1_1BulkTranslator_html_a29f69e9d7f98712ab854468395d9f985"><div class="ttname"><a href="classbulk_1_1provider_1_1BulkTranslator.html#a29f69e9d7f98712ab854468395d9f985">bulk::provider::BulkTranslator::getSubscriptionStatus</a></div><div class="ttdeci">core::SubscriptionStatus getSubscriptionStatus() noexcept override</div><div class="ttdoc">Get Subscriber current State object.</div><div class="ttdef"><b>Definition</b> <a href="bulk__translator_8hpp_source.html#l00023">bulk_translator.hpp:23</a></div></div>
@@ -245,8 +246,12 @@ $(document).ready(function(){initNavTree('bulk__translator_8hpp_source.html','')
 <div class="ttc" id="anamespacecore_html_ae939ff681d6c59d34a28d5ba262d2e42"><div class="ttname"><a href="namespacecore.html#ae939ff681d6c59d34a28d5ba262d2e42">core::SubscriptionStatus</a></div><div class="ttdeci">SubscriptionStatus</div><div class="ttdoc">used to manage subscription state</div><div class="ttdef"><b>Definition</b> <a href="subscriber_8hpp_source.html#l00012">subscriber.hpp:12</a></div></div>
 <div class="ttc" id="anamespacecore_html_ae939ff681d6c59d34a28d5ba262d2e42a2027c027133e22c8929e2874dc44dd36"><div class="ttname"><a href="namespacecore.html#ae939ff681d6c59d34a28d5ba262d2e42a2027c027133e22c8929e2874dc44dd36">core::SubscriptionStatus::CANCEL</a></div><div class="ttdeci">@ CANCEL</div><div class="ttdoc">unsubscribe (asap)</div></div>
 <div class="ttc" id="anamespacecore_html_ae939ff681d6c59d34a28d5ba262d2e42a2baa69eafc7204f3bd8648eba580c489"><div class="ttname"><a href="namespacecore.html#ae939ff681d6c59d34a28d5ba262d2e42a2baa69eafc7204f3bd8648eba580c489">core::SubscriptionStatus::READY</a></div><div class="ttdeci">@ READY</div><div class="ttdoc">accept event</div></div>
+<div class="ttc" id="aoverload_8hpp_html"><div class="ttname"><a href="overload_8hpp.html">overload.hpp</a></div></div>
+<div class="ttc" id="apublisher_8hpp_html"><div class="ttname"><a href="publisher_8hpp.html">publisher.hpp</a></div></div>
 <div class="ttc" id="astructcore_1_1SubscriberBase_html"><div class="ttname"><a href="structcore_1_1SubscriberBase.html">core::SubscriberBase</a></div><div class="ttdef"><b>Definition</b> <a href="subscriber_8hpp_source.html#l00019">subscriber.hpp:19</a></div></div>
 <div class="ttc" id="astructutils_1_1overload_html"><div class="ttname"><a href="structutils_1_1overload.html">utils::overload</a></div><div class="ttdef"><b>Definition</b> <a href="overload_8hpp_source.html#l00006">overload.hpp:6</a></div></div>
+<div class="ttc" id="asubscriber_8hpp_html"><div class="ttname"><a href="subscriber_8hpp.html">subscriber.hpp</a></div></div>
+<div class="ttc" id="atoken__event_8hpp_html"><div class="ttname"><a href="token__event_8hpp.html">token_event.hpp</a></div></div>
 </div><!-- fragment --></div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->

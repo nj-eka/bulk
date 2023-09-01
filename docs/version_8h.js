@@ -1,5 +1,10 @@
 var version_8h =
 [
+    [ "info_boost_libraries", "version_8h.html#a4f6b5083c272141764c35b0cff843ae7", null ],
+    [ "info_boost_version", "version_8h.html#a35557f9934568e2d7c71bc382a94c359", null ],
+    [ "info_compiler_name", "version_8h.html#ad14822b50a586b36ccf5978ab1ac4ec7", null ],
+    [ "info_compiler_version", "version_8h.html#ad680bf7ac70dbb1d24b428f55159b013", null ],
+    [ "info_host_system", "version_8h.html#af138dcf75a98d5fb9358ac1ed3800394", null ],
     [ "info_project_author", "version_8h.html#a28d71fb524538a7bdfbb1483a8a3a4cb", null ],
     [ "info_project_full", "version_8h.html#adf619fee1b67e68e79a217741803d1c1", null ],
     [ "info_project_repository_branch", "version_8h.html#aae86ae087e0d5fde160d4328e106c21f", null ],

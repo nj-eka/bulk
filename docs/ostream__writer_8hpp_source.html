@@ -26,7 +26,7 @@
  <tr id="projectrow">
   <td id="projectlogo"><img alt="Logo" src="bulk_logo.png"/></td>
   <td id="projectalign">
-   <div id="projectname">bulk<span id="projectnumber">&#160;0.0.1-dirty</span>
+   <div id="projectname">bulk<span id="projectnumber">&#160;0.0.1-4-g8a43afc-dirty</span>
    </div>
    <div id="projectbrief">course c++ developer: hw7 - batch (bulk) commands processing program</div>
   </td>
@@ -99,9 +99,9 @@ $(document).ready(function(){initNavTree('ostream__writer_8hpp_source.html','');
 <div class="line"><a id="l00003" name="l00003"></a><span class="lineno">    3</span><span class="preprocessor">#include &lt;iostream&gt;</span></div>
 <div class="line"><a id="l00004" name="l00004"></a><span class="lineno">    4</span><span class="preprocessor">#include &lt;memory&gt;</span></div>
 <div class="line"><a id="l00005" name="l00005"></a><span class="lineno">    5</span> </div>
-<div class="line"><a id="l00006" name="l00006"></a><span class="lineno">    6</span><span class="preprocessor">#include &quot;../bulk/bulk_event.hpp&quot;</span></div>
-<div class="line"><a id="l00007" name="l00007"></a><span class="lineno">    7</span><span class="preprocessor">#include &quot;../cmd/token_event.hpp&quot;</span></div>
-<div class="line"><a id="l00008" name="l00008"></a><span class="lineno">    8</span><span class="preprocessor">#include &quot;../core/subscriber.hpp&quot;</span></div>
+<div class="line"><a id="l00006" name="l00006"></a><span class="lineno">    6</span><span class="preprocessor">#include &quot;<a class="code" href="bulk__event_8hpp.html">bulk/bulk_event.hpp</a>&quot;</span></div>
+<div class="line"><a id="l00007" name="l00007"></a><span class="lineno">    7</span><span class="preprocessor">#include &quot;<a class="code" href="token__event_8hpp.html">cmd/token_event.hpp</a>&quot;</span></div>
+<div class="line"><a id="l00008" name="l00008"></a><span class="lineno">    8</span><span class="preprocessor">#include &quot;<a class="code" href="subscriber_8hpp.html">core/subscriber.hpp</a>&quot;</span></div>
 <div class="line"><a id="l00009" name="l00009"></a><span class="lineno">    9</span> </div>
 <div class="line"><a id="l00010" name="l00010"></a><span class="lineno">   10</span><span class="keyword">namespace </span><a class="code hl_namespace" href="namespacelogs.html">logs</a> {</div>
 <div class="line"><a id="l00011" name="l00011"></a><span class="lineno">   11</span> </div>
@@ -135,6 +135,7 @@ $(document).ready(function(){initNavTree('ostream__writer_8hpp_source.html','');
 <div class="line"><a id="l00039" name="l00039"></a><span class="lineno">   39</span>};</div>
 <div class="line"><a id="l00040" name="l00040"></a><span class="lineno">   40</span> </div>
 <div class="line"><a id="l00041" name="l00041"></a><span class="lineno">   41</span>}  <span class="comment">// namespace logs</span></div>
+<div class="ttc" id="abulk__event_8hpp_html"><div class="ttname"><a href="bulk__event_8hpp.html">bulk_event.hpp</a></div></div>
 <div class="ttc" id="aclasslogs_1_1OutputStreamWriter_html"><div class="ttname"><a href="classlogs_1_1OutputStreamWriter.html">logs::OutputStreamWriter</a></div><div class="ttdef"><b>Definition</b> <a href="ostream__writer_8hpp_source.html#l00012">ostream_writer.hpp:14</a></div></div>
 <div class="ttc" id="aclasslogs_1_1OutputStreamWriter_html_a0c0dadcabbb8794ee1d2f48b0854bc69"><div class="ttname"><a href="classlogs_1_1OutputStreamWriter.html#a0c0dadcabbb8794ee1d2f48b0854bc69">logs::OutputStreamWriter::onEvent</a></div><div class="ttdeci">core::SubscriptionStatus onEvent(bulk::BulkEvent const &amp;event) override</div><div class="ttdoc">Main Subscription Method.</div><div class="ttdef"><b>Definition</b> <a href="ostream__writer_8hpp_source.html#l00020">ostream_writer.hpp:20</a></div></div>
 <div class="ttc" id="aclasslogs_1_1OutputStreamWriter_html_a185423623f220b75342f2dccf55d6644"><div class="ttname"><a href="classlogs_1_1OutputStreamWriter.html#a185423623f220b75342f2dccf55d6644">logs::OutputStreamWriter::getSubscriberName</a></div><div class="ttdeci">std::string getSubscriberName() const noexcept override</div><div class="ttdoc">Get Subscriber Name (local within derived type)</div><div class="ttdef"><b>Definition</b> <a href="ostream__writer_8hpp_source.html#l00038">ostream_writer.hpp:38</a></div></div>
@@ -151,6 +152,8 @@ $(document).ready(function(){initNavTree('ostream__writer_8hpp_source.html','');
 <div class="ttc" id="anamespacelogs_html"><div class="ttname"><a href="namespacelogs.html">logs</a></div><div class="ttdef"><b>Definition</b> <a href="file__writer_8hpp_source.html#l00011">file_writer.hpp:11</a></div></div>
 <div class="ttc" id="astructcore_1_1SubscriberBase_html"><div class="ttname"><a href="structcore_1_1SubscriberBase.html">core::SubscriberBase</a></div><div class="ttdef"><b>Definition</b> <a href="subscriber_8hpp_source.html#l00019">subscriber.hpp:19</a></div></div>
 <div class="ttc" id="astructcore_1_1SubscriberBase_html_a8110043a7ed2989b6e83fcae51e7449d"><div class="ttname"><a href="structcore_1_1SubscriberBase.html#a8110043a7ed2989b6e83fcae51e7449d">core::SubscriberBase&lt; cmd::TokenEvent &gt;::getSubscriptionStatus</a></div><div class="ttdeci">virtual SubscriptionStatus getSubscriptionStatus() noexcept</div><div class="ttdoc">Get Subscriber current State object.</div><div class="ttdef"><b>Definition</b> <a href="subscriber_8hpp_source.html#l00039">subscriber.hpp:39</a></div></div>
+<div class="ttc" id="asubscriber_8hpp_html"><div class="ttname"><a href="subscriber_8hpp.html">subscriber.hpp</a></div></div>
+<div class="ttc" id="atoken__event_8hpp_html"><div class="ttname"><a href="token__event_8hpp.html">token_event.hpp</a></div></div>
 </div><!-- fragment --></div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->

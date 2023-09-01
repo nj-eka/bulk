@@ -1,9 +1,14 @@
 <map id="info::info_project_version" name="info::info_project_version">
-<area shape="rect" id="Node000001" title=" " alt="" coords="290,23,407,74"/>
-<area shape="rect" id="Node000002" href="$namespaceargs.html#ac5abfe1ee497dcb11ea7435db4aed06d" title=" " alt="" coords="103,5,242,36"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="275,40,242,34,243,29,276,34"/>
-<area shape="rect" id="Node000004" href="$version_8gtest_8cpp.html#a2bdf8dc253b15de63889849be5642724" title=" " alt="" coords="145,60,200,91"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="276,62,200,74,199,69,275,57"/>
-<area shape="rect" id="Node000003" href="$main_8cpp.html#abf9e6b7e6f15df4b525a2e7705ba3089" title="course c++ developer: hw7 &#45; bulk" alt="" coords="5,5,55,36"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="88,23,55,23,55,18,88,18"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="479,49,597,99"/>
+<area shape="rect" id="Node000002" href="$namespaceinfo.html#adf619fee1b67e68e79a217741803d1c1" title=" " alt="" coords="290,59,431,89"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="465,77,432,77,432,71,465,71"/>
+<area shape="rect" id="Node000003" href="$namespaceargs.html#ac5abfe1ee497dcb11ea7435db4aed06d" title=" " alt="" coords="103,5,242,36"/>
+<area shape="poly" id="edge5_Node000001_Node000003" title=" " alt="" coords="464,57,431,50,332,36,242,28,243,22,333,31,432,45,466,52"/>
+<area shape="rect" id="Node000006" href="$version_8gtest_8cpp.html#a2bdf8dc253b15de63889849be5642724" title=" " alt="" coords="334,113,388,144"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="466,99,389,123,388,118,464,94"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="290,57,228,39,230,34,291,52"/>
+<area shape="rect" id="Node000005" href="$version_8gtest_8cpp.html#a5d030007d0415495a5fe6465d08c90ca" title=" " alt="" coords="145,60,200,91"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="275,77,200,78,200,72,275,72"/>
+<area shape="rect" id="Node000004" href="$main_8cpp.html#abf9e6b7e6f15df4b525a2e7705ba3089" title="course c++ developer: hw7 &#45; bulk" alt="" coords="5,5,55,36"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="88,23,55,23,55,18,88,18"/>
 </map>

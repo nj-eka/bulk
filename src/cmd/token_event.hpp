@@ -9,8 +9,9 @@ struct TokenEvent {
   size_t index;
 };
 
-inline void print(TokenEvent const& event, std::ostream& out) {
-  out << "#" << event.index << " > " << to_string(event.token) << std::endl;
+inline std::ostream& operator<<(std::ostream& out, TokenEvent const& event) {
+  out << "#" << event.index << " > " << to_string(event.token);
+  return out;
 }
 
 }  // namespace cmd

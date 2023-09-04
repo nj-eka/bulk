@@ -24,8 +24,8 @@ TEST(hw, use_case_1) {
   in << "cmd1\ncmd2\ncmd3\ncmd4\ncmd5";
   parser.run();
 
-  bulk::print(bulk::BulkEvent{std::chrono::system_clock::time_point(), {{"cmd1"}, {"cmd2"}, {"cmd3"}}}, eta);
-  bulk::print(bulk::BulkEvent{std::chrono::system_clock::time_point(), {{"cmd4"}, {"cmd5"}}}, eta);
+  eta << bulk::BulkEvent{std::chrono::system_clock::time_point(), {{"cmd1"}, {"cmd2"}, {"cmd3"}}} << std::endl;
+  eta << bulk::BulkEvent{std::chrono::system_clock::time_point(), {{"cmd4"}, {"cmd5"}}} << std::endl;
 
   ASSERT_EQ(out.str(), eta.str());
 }
@@ -46,11 +46,9 @@ TEST(hw, use_case_2) {
   in << "cmd1\ncmd2\n{\ncmd3\ncmd4\n}\n{\ncmd5\ncmd6\n{\ncmd7\ncmd8\n}\ncmd9\n}\n{\ncmd10\ncmd11";
   parser.run();
 
-  bulk::print(bulk::BulkEvent{std::chrono::system_clock::time_point(), {{"cmd1"}, {"cmd2"}}}, eta);
-  bulk::print(bulk::BulkEvent{std::chrono::system_clock::time_point(), {{"cmd3"}, {"cmd4"}}}, eta);
-  bulk::print(
-      bulk::BulkEvent{std::chrono::system_clock::time_point(), {{"cmd5"}, {"cmd6"}, {"cmd7"}, {"cmd8"}, {"cmd9"}}},
-      eta);
+  eta << bulk::BulkEvent{std::chrono::system_clock::time_point(), {{"cmd1"}, {"cmd2"}}} << std::endl;
+  eta << bulk::BulkEvent{std::chrono::system_clock::time_point(), {{"cmd3"}, {"cmd4"}}} << std::endl;
+  eta << bulk::BulkEvent{std::chrono::system_clock::time_point(), {{"cmd5"}, {"cmd6"}, {"cmd7"}, {"cmd8"}, {"cmd9"}}} << std::endl;
 
   ASSERT_EQ(out.str(), eta.str());
 }

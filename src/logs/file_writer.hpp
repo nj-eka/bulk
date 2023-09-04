@@ -30,7 +30,7 @@ class FileWriter final : public core::SubscriberBase<bulk::BulkEvent>, public st
       if (!fw.is_open()) {
         setSubscriptionStatus(core::SubscriptionStatus::CANCEL);
       } else {
-        bulk::print(event, fw);
+        fw << event << std::endl;
         fw.close();
       }
     }

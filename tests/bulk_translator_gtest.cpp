@@ -27,7 +27,9 @@ TEST(_bulk_translator, pub_base) {
   translator->onEvent({cmd::TokenCommand{"cmd1"}, 1});
   ASSERT_EQ(out.str(), "");
   translator->onEvent({cmd::TokenCommand{"cmd2"}, 2});
-  bulk::print(bulk::BulkEvent{std::chrono::system_clock::time_point(), {{"cmd1"}, {"cmd2"}}}, eta);
+
+  eta << bulk::BulkEvent{std::chrono::system_clock::time_point(), {{"cmd1"}, {"cmd2"}}} << std::endl;
+
   ASSERT_EQ(out.str(), eta.str());
   ASSERT_TRUE(translator->hasSubscription());
   ASSERT_EQ(core::SubscriptionStatus::READY, translator->getSubscriptionStatus());
@@ -42,7 +44,9 @@ TEST(_bulk_translator, pub_base_eof) {
   translator->onEvent({cmd::TokenCommand{"cmd1"}, 1});
   ASSERT_EQ(out.str(), "");
   translator->onEvent({cmd::TokenEnd{}, 2});
-  bulk::print(bulk::BulkEvent{std::chrono::system_clock::time_point(), {{"cmd1"}}}, eta);
+
+  eta << bulk::BulkEvent{std::chrono::system_clock::time_point(), {{"cmd1"}}} << std::endl;
+
   ASSERT_EQ(out.str(), eta.str());
   ASSERT_FALSE(translator->hasSubscription());
   ASSERT_EQ(core::SubscriptionStatus::CANCEL, translator->getSubscriptionStatus());
@@ -57,7 +61,9 @@ TEST(_bulk_translator, pub_base_block_begin) {
   translator->onEvent({cmd::TokenCommand{"cmd1"}, 1});
   ASSERT_EQ(out.str(), "");
   translator->onEvent({cmd::TokenBlockBegin{}, 2});
-  bulk::print(bulk::BulkEvent{std::chrono::system_clock::time_point(), {{"cmd1"}}}, eta);
+
+  eta << bulk::BulkEvent{std::chrono::system_clock::time_point(), {{"cmd1"}}} << std::endl;
+
   ASSERT_EQ(out.str(), eta.str());
   ASSERT_TRUE(translator->hasSubscription());
   ASSERT_EQ(core::SubscriptionStatus::READY, translator->getSubscriptionStatus());
@@ -92,7 +98,9 @@ TEST(_bulk_translator, pub_block_base) {
   translator->onEvent({cmd::TokenCommand{"cmd3"}, 4});
   ASSERT_EQ(out.str(), "");
   translator->onEvent({cmd::TokenBlockEnd{}, 5});
-  bulk::print(bulk::BulkEvent{std::chrono::system_clock::time_point(), {{"cmd1"}, {"cmd2"}, {"cmd3"}}}, eta);
+
+  eta << bulk::BulkEvent{std::chrono::system_clock::time_point(), {{"cmd1"}, {"cmd2"}, {"cmd3"}}} << std::endl;
+
   ASSERT_EQ(out.str(), eta.str());
   ASSERT_TRUE(translator->hasSubscription());
   ASSERT_EQ(core::SubscriptionStatus::READY, translator->getSubscriptionStatus());
@@ -131,9 +139,10 @@ TEST(_bulk_translator, pub_block_nested) {
   ASSERT_EQ(out.str(), "");
   translator->onEvent({cmd::TokenCommand{"cmd5"}, 8});
   translator->onEvent({cmd::TokenBlockEnd{}, 9});
-  bulk::print(
-      bulk::BulkEvent{std::chrono::system_clock::time_point(), {{"cmd1"}, {"cmd2"}, {"cmd3"}, {"cmd4"}, {"cmd5"}}},
-      eta);
+
+  eta << bulk::BulkEvent{std::chrono::system_clock::time_point(), {{"cmd1"}, {"cmd2"}, {"cmd3"}, {"cmd4"}, {"cmd5"}}}
+      << std::endl;
+
   ASSERT_EQ(out.str(), eta.str());
   ASSERT_TRUE(translator->hasSubscription());
   ASSERT_EQ(core::SubscriptionStatus::READY, translator->getSubscriptionStatus());

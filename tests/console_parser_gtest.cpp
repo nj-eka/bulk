@@ -100,13 +100,13 @@ TEST(parser, tokens) {
   in << " }" << std::endl;
 
   size_t index = 0;
-  cmd::print(cmd::TokenEvent{cmd::TokenCommand{"cmd0"}, ++index}, eta);
-  cmd::print(cmd::TokenEvent{cmd::TokenCommand{"cmd1"}, ++index}, eta);
-  cmd::print(cmd::TokenEvent{cmd::TokenCommand{"cmd2"}, ++index}, eta);
-  cmd::print(cmd::TokenEvent{cmd::TokenCommand{"cmd3"}, ++index}, eta);
-  cmd::print(cmd::TokenEvent{cmd::TokenBlockBegin{}, ++index}, eta);
-  cmd::print(cmd::TokenEvent{cmd::TokenBlockEnd{}, ++index}, eta);
-  cmd::print(cmd::TokenEvent{cmd::TokenEnd{}, ++index}, eta);
+  eta << cmd::TokenEvent{cmd::TokenCommand{"cmd0"}, ++index} << std::endl;
+  eta << cmd::TokenEvent{cmd::TokenCommand{"cmd1"}, ++index} << std::endl;
+  eta << cmd::TokenEvent{cmd::TokenCommand{"cmd2"}, ++index} << std::endl;
+  eta << cmd::TokenEvent{cmd::TokenCommand{"cmd3"}, ++index} << std::endl;
+  eta << cmd::TokenEvent{cmd::TokenBlockBegin{}, ++index} << std::endl;
+  eta << cmd::TokenEvent{cmd::TokenBlockEnd{}, ++index} << std::endl;
+  eta << cmd::TokenEvent{cmd::TokenEnd{}, ++index} << std::endl;
 
   parser.run();
   ASSERT_TRUE(parser.hasSubscription()) << "failed subscription";
@@ -136,7 +136,8 @@ TEST(parser, bulk_translator) {
   in << "cmd1" << std::endl;
   in << "cmd2" << std::endl;
 
-  bulk::print(bulk::BulkEvent{std::chrono::system_clock::time_point(), {{"cmd1"}, {"cmd2"}}}, eta);
+  eta << bulk::BulkEvent{std::chrono::system_clock::time_point(), {{"cmd1"}, {"cmd2"}}} << std::endl;
+
   parser.run();
   ASSERT_FALSE(parser.hasSubscription());
 
@@ -167,10 +168,11 @@ TEST(parser, writer_bulk_translator) {
   in << "cmd2" << std::endl;
 
   size_t index = 0;
-  cmd::print(cmd::TokenEvent{cmd::TokenCommand{"cmd1"}, ++index}, eta);
-  cmd::print(cmd::TokenEvent{cmd::TokenCommand{"cmd2"}, ++index}, eta);
-  bulk::print(bulk::BulkEvent{std::chrono::system_clock::time_point(), {{"cmd1"}, {"cmd2"}}}, eta);
-  cmd::print(cmd::TokenEvent{cmd::TokenEnd{}, ++index}, eta);
+
+  eta << cmd::TokenEvent{cmd::TokenCommand{"cmd1"}, ++index} << std::endl;
+  eta << cmd::TokenEvent{cmd::TokenCommand{"cmd2"}, ++index} << std::endl;
+  eta << bulk::BulkEvent{std::chrono::system_clock::time_point(), {{"cmd1"}, {"cmd2"}}} << std::endl;
+  eta << cmd::TokenEvent{cmd::TokenEnd{}, ++index} << std::endl;
 
   parser.run();
   ASSERT_TRUE(parser.hasSubscription());

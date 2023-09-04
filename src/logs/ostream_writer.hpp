@@ -18,12 +18,12 @@ class OutputStreamWriter final : public core::SubscriberBase<cmd::TokenEvent>,
   }
 
   core::SubscriptionStatus onEvent(bulk::BulkEvent const& event) override {
-    bulk::print(event, _out);
+    _out << event << std::endl;
     return static_cast<core::SubscriberBase<bulk::BulkEvent>*>(this)
         ->getSubscriptionStatus();  // == core::SubscriptionStatus::READY;
   }
   core::SubscriptionStatus onEvent(cmd::TokenEvent const& event) override {
-    cmd::print(event, _out);
+    _out << event << std::endl;
     return static_cast<core::SubscriberBase<cmd::TokenEvent>*>(this)
         ->getSubscriptionStatus();  // == core::SubscriptionStatus::READY;
   }

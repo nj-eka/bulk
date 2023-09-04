@@ -12,17 +12,17 @@ struct BulkEvent {
   std::vector<std::string> commands;
 };
 
-inline void print(BulkEvent const& event, std::ostream& out, std::string_view separator = ", ") {
+inline std::ostream& operator<<(std::ostream& out, BulkEvent const& event) {
   out << "bulk : ";
   auto from = event.commands.begin();
   auto to = event.commands.end();
   if (from != to) {
     out << *from;
     for (auto&& it = ++from; it != to; ++it) {
-      out << separator << *it;
+      out << ", " << *it;
     }
   }
-  out << '\n';
+  return out;
 }
 
 }  // namespace bulk
